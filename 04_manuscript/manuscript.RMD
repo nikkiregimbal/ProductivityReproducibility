@@ -1,1 +1,27 @@
+---
+title: "Name later"
+author: "Nicole Regimbal"
+date: "2025-09-11"
+output: pdf_document
+---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message= FALSE)
+```
+
+#Introduction
+**Bold**
+
+#Methods
+
+##Field Sites
+
+##Data Analaysis
+
+##Subheader ###Smaller subheader
+
+#Results
+
+#Discussion
+
+#References
