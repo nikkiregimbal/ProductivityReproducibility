@@ -10,3 +10,6 @@ library(lterdatasampler) #this contains dataset options
 
 df <- read.csv("and_vertebrates.csv")
 
+#install latex
+tinytex::install_tinytex()
+tiny::tlmgr_update()
