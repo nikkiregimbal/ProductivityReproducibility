@@ -9,19 +9,40 @@ output: pdf_document
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message= FALSE)
 ```
 
-#Introduction
-**Bold**
+# Introduction
 
-#Methods
+**Bold** *Italics*
 
-##Field Sites
+To write equation wrap it in dollar sign \$a\^2 + b\^2 = c\^2\$
 
-##Data Analaysis
+# Methods
 
-##Subheader ###Smaller subheader
+## Field Sites
 
-#Results
+## Data Analaysis
 
-#Discussion
+## Subheader
 
-#References
+### Smaller subheader
+
+-   Ist
+-   mi
+
+# Results
+
+```{r}
+library(palmerpenguins)
+penguins <- penguins
+library(ggplot2)
+a <- ggplot(data=penguins)+
+  geom_point(aes(x = flipper_length_mm, y = body_mass_g))
+
+```
+
+ggsave(".04_manuscript/ms_figures/penguin_plot.png", a)
+
+![figure caption](.ms/)
+
+# Discussion
+
+# References
