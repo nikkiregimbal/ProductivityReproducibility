@@ -3,6 +3,7 @@ title: "Name later"
 author: "Nicole Regimbal"
 date: "2025-09-11"
 output: pdf_document
+bibliography: references.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -14,6 +15,21 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message= FALSE)
 **Bold** *Italics*
 
 To write equation wrap it in dollar sign \$a\^2 + b\^2 = c\^2\$
+
+Try to cite something [@Bertram2023]
+
+ctrl+alt+I is the shortcut to make a code chunk
+
+citing packages used
+```{r loadlibs}
+library(lme4)
+library(glmmTMB)
+```
+
+```{r}
+get_pcks_info()
+```
+
 
 # Methods
 
@@ -28,14 +44,16 @@ To write equation wrap it in dollar sign \$a\^2 + b\^2 = c\^2\$
 -   Ist
 -   mi
 
+1.  thing 1
+2.  thing 2
+
 # Results
 
 ```{r}
-library(palmerpenguins)
-penguins <- penguins
+
+verts <- read.csv("../00_rawdata/and_vertebrates.csv")
 library(ggplot2)
-a <- ggplot(data=penguins)+
-  geom_point(aes(x = flipper_length_mm, y = body_mass_g))
+
 
 ```
 
