@@ -1,7 +1,7 @@
 ---
-title: "Name later"
+title: "Aquatic Vertebrate Biomass: Project for Productivity and Reproducibility 2025"
 author: "Nicole Regimbal"
-date: "2025-09-11"
+date: "2025-09-13"
 output: pdf_document
 bibliography: references.bib
 ---
@@ -10,26 +10,20 @@ bibliography: references.bib
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message= FALSE)
 ```
 
-# Introduction
-
-**Bold** *Italics*
-
-To write equation wrap it in dollar sign \$a\^2 + b\^2 = c\^2\$
-
-Try to cite something [@Bertram2023]
-
-ctrl+alt+I is the shortcut to make a code chunk
-
-citing packages used
 ```{r loadlibs}
 library(lme4)
 library(glmmTMB)
 ```
 
-```{r}
-get_pcks_info()
-```
+# Introduction
 
+This project assesses the effects of anthropogenic impacts on aquatic vertebrates in Mack Creek, Oregon.
+
+The data is available as the **and_vertebrates** dataset from the *lterdatasampler* package in R.
+
+This data assesses differences in biomass for 3 vertebrates compared between a anthropogenically disturbed (previously clear cut) and anthropogenically undisturbed (old growth) sites along the creek.
+
+Previous research from [@kaylor2017] indicated that forest disturbances can affect vertebrate mass. This research inspired this research project, specifically looking at Coastal Cutthroat Trout, Coastal Giant Salamander and Cascade Torrent Salamander.
 
 # Methods
 
@@ -37,27 +31,18 @@ get_pcks_info()
 
 ## Data Analaysis
 
-## Subheader
-
-### Smaller subheader
-
--   Ist
--   mi
-
-1.  thing 1
-2.  thing 2
+```{r}
+verts <- read.csv("../00_rawdata/and_vertebrates.csv")
+```
 
 # Results
 
 ```{r}
-
-verts <- read.csv("../00_rawdata/and_vertebrates.csv")
 library(ggplot2)
-
 
 ```
 
-ggsave(".04_manuscript/ms_figures/penguin_plot.png", a)
+ggsave(".04_manuscript/ms_figures/plot.png", a)
 
 ![figure caption](.ms/)
 
