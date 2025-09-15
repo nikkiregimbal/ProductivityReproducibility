@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.13)  13 SEP 2025 11:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.13)  15 SEP 2025 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -408,10 +408,6 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 109.
 (c:/Users/nikki/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 140.
-(c:/Users/nikki/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
 
 ! LaTeX Error: File `.ms/' not found.
 
@@ -419,7 +415,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.160 \includegraphics{.ms/}
+l.139 \includegraphics{.ms/}
                             
 I could not locate the file with any of these extensions:
 .pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
@@ -428,11 +424,11 @@ If that doesn't work, type  X <return>  to quit.
 
  
 Here is how much of TeX's memory you used:
- 11075 strings out of 469780
- 170896 string characters out of 5480019
- 573635 words of memory out of 5000000
- 39317 multiletter control sequences out of 15000+600000
- 665470 words of font info for 66 fonts, out of 8000000 for 9000
+ 11034 strings out of 469780
+ 169839 string characters out of 5480019
+ 572635 words of memory out of 5000000
+ 39280 multiletter control sequences out of 15000+600000
+ 665105 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  89i,6n,93p,353b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

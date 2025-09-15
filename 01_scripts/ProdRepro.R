@@ -5,6 +5,7 @@ library(renv)
 #library(gitcreds)
 #gitcreds_set()
 
+#Showing sarah how to use github 
 
 #install latex
 tinytex::install_tinytex()
