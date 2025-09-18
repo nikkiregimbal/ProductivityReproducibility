@@ -1,0 +1,2012 @@
+{
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "preferences": {
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "automaticTags": true,
+      "autoPinDelay": 0,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": true,
+      "biblatexExtractEprint": true,
+      "biblatexUsePrefix": true,
+      "bibtexEditionOrdinal": false,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheDelete": false,
+      "cacheRetain": false,
+      "charmap": "",
+      "chinese": false,
+      "chineseSplitName": true,
+      "citeCommand": "cite",
+      "citekeyCaseInsensitive": true,
+      "citekeyFold": true,
+      "citekeyFormat": "auth.lower + shorttitle(3, 3) + year",
+      "citekeySearch": true,
+      "citekeyUnsafeChars": "\\\"#%'(),={}~",
+      "csquotes": "",
+      "DOIandURL": "both",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportSort": "citekey",
+      "exportTitleCase": true,
+      "extraMergeCitekeys": false,
+      "extraMergeCSL": false,
+      "extraMergeTeX": false,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importDetectURLs": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importNoteToExtra": "",
+      "importPlaceEvent": "inproceedings,conference,presentation,talk",
+      "importSentenceCase": "on+guess",
+      "importSentenceCaseQuoted": true,
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "japanese": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "language": "langid",
+      "mapMath": "",
+      "mapText": "",
+      "packages": "",
+      "parseParticles": true,
+      "patchDates": "dateadded=dateAdded, date-added=dateAdded, datemodified=dateModified, date-modified=dateModified",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "verbatimFields": "url,doi,file,pdf,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/, keywords",
+      "warnBulkModify": 10,
+      "warnTitleCased": false
+    },
+    "options": {
+      "Items": true,
+      "Normalize": false,
+      "Preferences": true,
+      "biblatexAPA": false,
+      "biblatexChicago": false,
+      "exportFileData": false,
+      "exportNotes": true,
+      "keepUpdated": false,
+      "worker": true,
+      "exportDir": "C:\\Users\\nikki\\OneDrive - University of Toronto\\Courses\\Productivity and Reproducibility\\ProductivityReproducibility\\04_manuscript",
+      "exportPath": "C:\\Users\\nikki\\OneDrive - University of Toronto\\Courses\\Productivity and Reproducibility\\ProductivityReproducibility\\04_manuscript\\bibliography.json"
+    }
+  },
+  "version": {
+    "zotero": "7.0.24",
+    "bbt": "7.0.50"
+  },
+  "collections": {},
+  "items": [
+    {
+      "key": "4IUR7KVZ",
+      "version": 9500,
+      "itemType": "journalArticle",
+      "title": "Temperature-dependent dispersal and ectotherm species' distributions in a warming world",
+      "abstractNote": "Dispersal is a crucial component of species' responses to climate warming. Warming-induced changes in species' distributions are the outcome of how temperature affects dispersal at the individual level. Yet, there is little or no theory that considers the temperature dependence of dispersal when investigating the impacts of warming on species' distributions. Here I take a first step towards filling this key gap in our knowledge. I focus on ectotherms, species whose body temperature depends on the environmental temperature, not least because they constitute the majority of biodiversity on the planet. I develop a mathematical model of spatial population dynamics that explicitly incorporates mechanistic descriptions of ectotherm life history trait responses to temperature. A novel feature of this framework is the explicit temperature dependence of all phases of dispersal: emigration, transfer and settlement. I report three key findings. First, dispersal, regardless of whether it is random or temperature-dependent, allows both tropical and temperate ectotherms to track warming-induced changes in their thermal environments and to expand their distributions beyond the lower and upper thermal limits of their respective climate envelopes. In the absence of dispersal mortality, warming does not alter these new distributional limits. Second, an analysis based solely on trait response data predicts that tropical ectotherms should be able to expand their distributions polewards to a greater degree than temperate ectotherms. Analysis of the dynamical model confirms this prediction. Tropical ectotherms have an advantage when moving to cooler climates because they experience lower within-patch and dispersal mortality, and their higher thermal optima and maximal birth rates allow them to take advantage of the warmer parts of the year. Previous theory has shown that tropical ectotherms are more successful in invading and adapting the temperate climates than vice versa. This study provides the key missing piece, by showing how temperature-dependent dispersal could facilitate both invasion and adaptation. Third, dispersal mortality does not affect the poleward expansion of ectotherm distributions. But, it prevents both tropical and temperate ectotherms from maintaining sink populations in localities that are too warm to be viable in the absence of dispersal. Dispersal mortality also affects species' abundance patterns, causing a larger decline in abundance throughout the range when species disperse randomly rather than in response to thermal habitat suitability. In this way, dispersal mortality can facilitate the evolution of dispersal modes that maximize fitness in warmer thermal environments.",
+      "date": "2024",
+      "language": "en",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.14054",
+      "accessDate": "2025-03-14T11:38:02Z",
+      "rights": "© 2024 The Authors. Journal of Animal Ecology © 2024 British Ecological Society.",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2656.14054",
+      "volume": "93",
+      "pages": "428-446",
+      "publicationTitle": "Journal of Animal Ecology",
+      "DOI": "10.1111/1365-2656.14054",
+      "issue": "4",
+      "ISSN": "1365-2656",
+      "creators": [
+        {
+          "firstName": "Priyanga",
+          "lastName": "Amarasekare",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "climate warming",
+          "type": 1
+        },
+        {
+          "tag": "dispersal",
+          "type": 1
+        },
+        {
+          "tag": "ectotherm",
+          "type": 1
+        },
+        {
+          "tag": "life history traits",
+          "type": 1
+        },
+        {
+          "tag": "range shifts",
+          "type": 1
+        },
+        {
+          "tag": "spatial population dynamics",
+          "type": 1
+        },
+        {
+          "tag": "temperature variation",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2025-03-14T11:38:02Z",
+      "dateModified": "2025-03-14T11:38:02Z",
+      "uri": "http://zotero.org/users/10816057/items/4IUR7KVZ",
+      "itemID": 2960,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.14054",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-03-14T11:38:14Z",
+          "dateModified": "2025-03-14T11:38:14Z",
+          "uri": "http://zotero.org/users/10816057/items/EZPWGFTH",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\EZPWGFTH\\Amarasekare - 2024 - Temperature-dependent dispersal and ectotherm spec.pdf",
+          "select": "zotero://select/library/items/EZPWGFTH"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.14054",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-03-14T11:38:13Z",
+          "dateModified": "2025-03-14T11:38:13Z",
+          "uri": "http://zotero.org/users/10816057/items/MJ7I8GM2",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\MJ7I8GM2\\1365-2656.html",
+          "select": "zotero://select/library/items/MJ7I8GM2"
+        }
+      ],
+      "notes": [],
+      "citationKey": "amarasekareTemperaturedependentDispersalEctotherm2024",
+      "itemKey": "4IUR7KVZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4IUR7KVZ"
+    },
+    {
+      "key": "9UVXBSWN",
+      "version": 9082,
+      "itemType": "journalArticle",
+      "title": "Open science",
+      "date": "2023-08-07",
+      "language": "English",
+      "libraryCatalog": "www.cell.com",
+      "url": "https://www.cell.com/current-biology/abstract/S0960-9822(23)00668-1",
+      "accessDate": "2025-09-02T12:59:18Z",
+      "extra": "Publisher: Elsevier\nPMID: 37552940",
+      "volume": "33",
+      "pages": "R792-R797",
+      "publicationTitle": "Current Biology",
+      "DOI": "10.1016/j.cub.2023.05.036",
+      "issue": "15",
+      "journalAbbreviation": "Current Biology",
+      "ISSN": "0960-9822",
+      "creators": [
+        {
+          "firstName": "Michael G.",
+          "lastName": "Bertram",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Josefin",
+          "lastName": "Sundin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Dominique G.",
+          "lastName": "Roche",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alfredo",
+          "lastName": "Sánchez-Tójar",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Eli S. J.",
+          "lastName": "Thoré",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tomas",
+          "lastName": "Brodin",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-09-02T12:59:18Z",
+      "dateModified": "2025-09-02T12:59:18Z",
+      "uri": "http://zotero.org/users/10816057/items/9UVXBSWN",
+      "itemID": 2929,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://www.cell.com/current-biology/pdf/S0960-9822(23)00668-1.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-09-02T12:59:22Z",
+          "dateModified": "2025-09-02T12:59:22Z",
+          "uri": "http://zotero.org/users/10816057/items/6RD7W3FU",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\6RD7W3FU\\Bertram et al. - 2023 - Open science.pdf",
+          "select": "zotero://select/library/items/6RD7W3FU"
+        },
+        {
+          "itemType": "attachment",
+          "title": "PubMed entry",
+          "url": "http://www.ncbi.nlm.nih.gov/pubmed/37552940",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-09-02T12:59:19Z",
+          "dateModified": "2025-09-02T12:59:19Z",
+          "uri": "http://zotero.org/users/10816057/items/TV3NS5RL",
+          "select": "zotero://select/library/items/TV3NS5RL"
+        }
+      ],
+      "notes": [],
+      "citationKey": "bertramOpenScience2023",
+      "itemKey": "9UVXBSWN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9UVXBSWN"
+    },
+    {
+      "key": "2MIFRK2U",
+      "version": 9501,
+      "itemType": "journalArticle",
+      "title": "Dispersal response to climate change: scaling down to intraspecific variation",
+      "abstractNote": "Range shift, a widespread response to climate change, will depend on species abilities to withstand warmer climates. However, these abilities may vary within species and such intraspecific variation can strongly impact species responses to climate change. Facing warmer climates, individuals should disperse according to their thermal optimum with consequences for species range shifts. Here, we studied individual dispersal of a reptile in response to climate warming and preferred temperature using a semi-natural warming experiment. Individuals with low preferred temperatures dispersed more from warmer semi-natural habitats, whereas individuals with higher preferred temperatures dispersed more from cooler habitats. These dispersal decisions partly matched phenotype-dependent survival rates in the different thermal habitats, suggesting adaptive dispersal decisions. This process should result into a spatial segregation of thermal phenotypes along species moving ranges which should facilitate local adaptation to warming climates. We therefore call for range shift models including intraspecific variation in thermal phenotype and dispersal decision.",
+      "date": "2015",
+      "language": "en",
+      "shortTitle": "Dispersal response to climate change",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12502",
+      "accessDate": "2025-03-14T11:38:40Z",
+      "rights": "© 2015 John Wiley & Sons Ltd/CNRS",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.12502",
+      "volume": "18",
+      "pages": "1226-1233",
+      "publicationTitle": "Ecology Letters",
+      "DOI": "10.1111/ele.12502",
+      "issue": "11",
+      "ISSN": "1461-0248",
+      "creators": [
+        {
+          "firstName": "Elvire",
+          "lastName": "Bestion",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jean",
+          "lastName": "Clobert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Julien",
+          "lastName": "Cote",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Climate change",
+          "type": 1
+        },
+        {
+          "tag": "condition-dependent dispersal",
+          "type": 1
+        },
+        {
+          "tag": "dispersal syndrome",
+          "type": 1
+        },
+        {
+          "tag": "interindividual variation",
+          "type": 1
+        },
+        {
+          "tag": "non-random dispersal",
+          "type": 1
+        },
+        {
+          "tag": "preferred temperature",
+          "type": 1
+        },
+        {
+          "tag": "thermal biology",
+          "type": 1
+        },
+        {
+          "tag": "Zootoca vivipara",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2025-03-14T11:38:40Z",
+      "dateModified": "2025-03-14T11:38:40Z",
+      "uri": "http://zotero.org/users/10816057/items/2MIFRK2U",
+      "itemID": 2959,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.12502",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-03-14T11:38:41Z",
+          "dateModified": "2025-03-14T11:38:41Z",
+          "uri": "http://zotero.org/users/10816057/items/HRY358SD",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\HRY358SD\\Bestion et al. - 2015 - Dispersal response to climate change scaling down.pdf",
+          "select": "zotero://select/library/items/HRY358SD"
+        }
+      ],
+      "notes": [],
+      "citationKey": "bestionDispersalResponseClimate2015a",
+      "itemKey": "2MIFRK2U",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2MIFRK2U"
+    },
+    {
+      "key": "PDLD2A58",
+      "version": 9491,
+      "itemType": "journalArticle",
+      "title": "Dispersal: a central and independent trait in life history",
+      "abstractNote": "The study of tradeoffs among major life history components (age at maturity, lifespan and reproduction) allowed the development of a quantitative framework to understand how environmental variation shapes patterns of biodiversity among and within species. Because every environment is inherently spatially structured, and in most cases temporally variable, individuals need to move within and among habitats to maximize fitness. Dispersal is often assumed to be tightly integrated into life histories through genetic correlations with other vital traits. This assumption is particularly strong within the context of a fast-slow continuum of life-history variation. Such a framework is to date used to explain many aspects of population and community dynamics. Evidence for a consistent and context-independent integration of dispersal in life histories is, however, weak. We therefore advocate the explicit integration of dispersal into life history theory as a principal axis of variation influencing fitness, that is free to evolve, independently of other life history traits. We synthesize theoretical and empirical evidence on the central role of dispersal and its evolutionary dynamics on the spatial distribution of ecological strategies and its impact on population spread, invasions and coexistence. By applying an optimality framework we show that the inclusion of dispersal as an independent dimension of life histories might substantially change our view on evolutionary trajectories in spatially structured environments. Because changes in the spatial configuration of habitats affect the costs of movement and dispersal, adaptations to reduce these costs will increase phenotypic divergence among and within populations. We outline how this phenotypic heterogeneity is anticipated to further impact population and community dynamics.",
+      "date": "2017",
+      "language": "en",
+      "shortTitle": "Dispersal",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.03801",
+      "accessDate": "2023-02-02T01:26:52Z",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/oik.03801",
+      "volume": "126",
+      "pages": "472-479",
+      "publicationTitle": "Oikos",
+      "DOI": "10.1111/oik.03801",
+      "issue": "4",
+      "ISSN": "1600-0706",
+      "creators": [
+        {
+          "firstName": "Dries",
+          "lastName": "Bonte",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Maxime",
+          "lastName": "Dahirel",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "notion"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2023-02-02T01:26:52Z",
+      "dateModified": "2023-05-12T12:37:04Z",
+      "uri": "http://zotero.org/users/10816057/items/PDLD2A58",
+      "itemID": 440,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/oik.03801",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-02-02T01:26:54Z",
+          "dateModified": "2023-02-02T01:26:54Z",
+          "uri": "http://zotero.org/users/10816057/items/CEYQEB96",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\CEYQEB96\\Bonte and Dahirel - 2017 - Dispersal a central and independent trait in life.pdf",
+          "select": "zotero://select/library/items/CEYQEB96"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Notion",
+          "url": "notion://www.notion.so/Bonte-Dahirel-2017-b7fbb266e0bc47bc8b36afd347fbcb16",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-05-12T12:37:04Z",
+          "dateModified": "2023-05-12T12:37:05Z",
+          "uri": "http://zotero.org/users/10816057/items/9ID94NBA",
+          "select": "zotero://select/library/items/9ID94NBA"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/oik.03801?casa_token=W5ZoGkOMwNgAAAAA:XBzYMzF058S3O-pPE632BaDrZyfoqzo8vxLR9dJZuJ3le0fdWTuEIDRgjfKZEee0ZOvgegxXMmHW",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-02-02T01:26:58Z",
+          "dateModified": "2023-02-02T01:26:58Z",
+          "uri": "http://zotero.org/users/10816057/items/H2U4SE6V",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\H2U4SE6V\\oik.html",
+          "select": "zotero://select/library/items/H2U4SE6V"
+        }
+      ],
+      "notes": [],
+      "citationKey": "bonteDispersalCentralIndependent2017",
+      "itemKey": "PDLD2A58",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PDLD2A58"
+    },
+    {
+      "key": "F4BGU6R3",
+      "version": 9502,
+      "itemType": "journalArticle",
+      "title": "Thermal conditions during juvenile development affect adult dispersal in a spider",
+      "abstractNote": "Understanding the causes and consequences of dispersal is a prerequisite for the effective management of natural populations. Rather than treating dispersal as a fixed trait, it should be considered a plastic process that responds to both genetic and environmental conditions. Here, we consider how the ambient temperature experienced by juvenile Erigone atra, a spider inhabiting crop habitat, influences adult dispersal. This species exhibits 2 distinct forms of dispersal, ballooning (long distance) and rappelling (short distance). Using a half-sib design we raised individuals under 4 different temperature regimes and quantified the spiders' propensity to balloon and to rappel. Additionally, as an indicator of investment in settlement, we determined the size of the webs build by the spiders following dispersal. The optimal temperature regimes for reproduction and overall dispersal investment were 20 °C and 25 °C. Propensity to perform short-distance movements was lowest at 15 °C, whereas for long-distance dispersal it was lowest at 30 °C. Plasticity in dispersal was in the direction predicted on the basis of the risks associated with seasonal changes in habitat availability; long-distance ballooning occurred more frequently under cooler, spring-like conditions and short-distance rappelling under warmer, summer-like conditions. Based on these findings, we conclude that thermal conditions during development provide juvenile spiders with information about the environmental conditions they are likely to encounter as adults and that this information influences the spider's dispersal strategy. Climate change may result in suboptimal adult dispersal behavior, with potentially deleterious population level consequences.",
+      "date": "2008-11-04",
+      "libraryCatalog": "pnas.org (Atypon)",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.0806830105",
+      "accessDate": "2024-06-10T22:10:34Z",
+      "extra": "Publisher: Proceedings of the National Academy of Sciences",
+      "volume": "105",
+      "pages": "17000-17005",
+      "publicationTitle": "Proceedings of the National Academy of Sciences",
+      "DOI": "10.1073/pnas.0806830105",
+      "issue": "44",
+      "creators": [
+        {
+          "firstName": "Dries",
+          "lastName": "Bonte",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Justin M. J.",
+          "lastName": "Travis",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Nele",
+          "lastName": "De Clercq",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ingrid",
+          "lastName": "Zwertvaegher",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Luc",
+          "lastName": "Lens",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2024-06-10T22:10:34Z",
+      "dateModified": "2024-06-10T22:10:36Z",
+      "uri": "http://zotero.org/users/10816057/items/F4BGU6R3",
+      "itemID": 2102,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://www.pnas.org/doi/pdf/10.1073/pnas.0806830105",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-06-10T22:10:37Z",
+          "dateModified": "2024-06-10T22:10:37Z",
+          "uri": "http://zotero.org/users/10816057/items/FRUBWY76",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\FRUBWY76\\Bonte et al. - 2008 - Thermal conditions during juvenile development aff.pdf",
+          "select": "zotero://select/library/items/FRUBWY76"
+        }
+      ],
+      "notes": [],
+      "citationKey": "bonteThermalConditionsJuvenile2008",
+      "itemKey": "F4BGU6R3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/F4BGU6R3"
+    },
+    {
+      "key": "WKJ7RHRQ",
+      "version": 9499,
+      "itemType": "journalArticle",
+      "title": "Interactive effects of landscape and weather on dispersal",
+      "abstractNote": "Over the last decades, many species have been forced to track their shifting climate envelopes, and at the same time man-induced landscape fragmentation has led to the global decrease of natural habitat availability and connectivity. The interaction between these two co-occurring global environmental changes might have very strong effects on biodiversity that are still understudied. Species-specific responses to these environmental changes critically depend on individual dispersal, either to track suitable climatic conditions or to cope with landscape fragmentation. Here we study how dispersal in an ectotherm is affected by interactions between landscape fragmentation and weather conditions. We show that both the emigration rates out of suitable habitats and the topology of the trajectory of dispersing individuals were affected by temperature and landscape fragmentation. The emigration rate was temperature-dependent in fragmented landscapes, with butterflies emigrating more at high temperatures. The emigration rate was temperature insensitive in more continuous landscapes. Move length was farther at low temperatures and less at high temperatures in fragmented landscapes. Move length was less at low temperatures and farther at high temperatures in more continuous landscapes. To our knowledge only two recent studies have documented patterns of interactions between climate and fragmentation, despite the fact that they are the two main drivers of biodiversity loss worldwide. Here, we go a step further by providing mechanistic explanations to such patterns.",
+      "date": "2013",
+      "language": "en",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0706.2013.00123.x",
+      "accessDate": "2025-08-28T13:58:08Z",
+      "rights": "© 2013 The Authors",
+      "extra": "_eprint: https://nsojournals.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1600-0706.2013.00123.x",
+      "volume": "122",
+      "pages": "1576-1585",
+      "publicationTitle": "Oikos",
+      "DOI": "10.1111/j.1600-0706.2013.00123.x",
+      "issue": "11",
+      "ISSN": "1600-0706",
+      "creators": [
+        {
+          "firstName": "Thomas",
+          "lastName": "Delattre",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michel",
+          "lastName": "Baguette",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Françoise",
+          "lastName": "Burel",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Virgine M.",
+          "lastName": "Stevens",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hervé",
+          "lastName": "Quénol",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Philippe",
+          "lastName": "Vernon",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-08-28T13:58:08Z",
+      "dateModified": "2025-08-28T13:58:08Z",
+      "uri": "http://zotero.org/users/10816057/items/WKJ7RHRQ",
+      "itemID": 2930,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1600-0706.2013.00123.x",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-08-28T13:58:18Z",
+          "dateModified": "2025-08-28T13:58:18Z",
+          "uri": "http://zotero.org/users/10816057/items/MJFRPNVN",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\MJFRPNVN\\Delattre et al. - 2013 - Interactive effects of landscape and weather on di.pdf",
+          "select": "zotero://select/library/items/MJFRPNVN"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0706.2013.00123.x?casa_token=iFKwVKUnIvYAAAAA%3APO8O3ZAuIyVPfqu91FD2b72p0Va6enOvifeWbWIpxz66L0Vf0ofnaiNG8UmjZbPHZzfKit5cVq1p",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-08-28T13:58:24Z",
+          "dateModified": "2025-08-28T13:58:24Z",
+          "uri": "http://zotero.org/users/10816057/items/TNVZ3SEA",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\TNVZ3SEA\\j.1600-0706.2013.00123.html",
+          "select": "zotero://select/library/items/TNVZ3SEA"
+        }
+      ],
+      "notes": [],
+      "citationKey": "delattreInteractiveEffectsLandscape2013a",
+      "itemKey": "WKJ7RHRQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WKJ7RHRQ"
+    },
+    {
+      "key": "DI8KBMPB",
+      "version": 9503,
+      "itemType": "journalArticle",
+      "title": "Global metabolic impacts of recent climate warming",
+      "abstractNote": "Organisms living at mid- to high latitudes in the Northern Hemisphere have been predicted to be potentially the most affected by climate warming, as that is where temperatures have risen most rapidly. But Michael Dillon and colleagues now turn the spotlight onto the prospects for ectotherms — 'cold blooded' animals that regulate their body temperatures by exchanging heat with their surroundings — living in the tropics. Temperature rise does not have a linear effect on an organism's biology, and estimated warming-induced changes in metabolic rate for tropical ectotherms are found to be larger than, or equivalent in magnitude to, those observed in temperate climates. This work may have profound implications both locally and globally, because the tropics are an important engine of primary productivity and contain a large proportion of the world's biodiversity.",
+      "date": "2010-10",
+      "language": "en",
+      "libraryCatalog": "www.nature.com",
+      "url": "https://www.nature.com/articles/nature09407",
+      "accessDate": "2024-05-24T11:23:08Z",
+      "rights": "2010 Springer Nature Limited",
+      "extra": "Publisher: Nature Publishing Group",
+      "volume": "467",
+      "pages": "704-706",
+      "publicationTitle": "Nature",
+      "DOI": "10.1038/nature09407",
+      "issue": "7316",
+      "ISSN": "1476-4687",
+      "creators": [
+        {
+          "firstName": "Michael E.",
+          "lastName": "Dillon",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "George",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Raymond B.",
+          "lastName": "Huey",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Biodiversity",
+          "type": 1
+        },
+        {
+          "tag": "Physiology",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2024-05-24T11:23:08Z",
+      "dateModified": "2024-05-24T11:23:08Z",
+      "uri": "http://zotero.org/users/10816057/items/DI8KBMPB",
+      "itemID": 2132,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://www.nature.com/articles/nature09407.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-05-24T11:23:15Z",
+          "dateModified": "2024-05-24T11:23:15Z",
+          "uri": "http://zotero.org/users/10816057/items/H6FEHAHW",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\H6FEHAHW\\Dillon et al. - 2010 - Global metabolic impacts of recent climate warming.pdf",
+          "select": "zotero://select/library/items/H6FEHAHW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "dillonGlobalMetabolicImpacts2010",
+      "itemKey": "DI8KBMPB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/DI8KBMPB"
+    },
+    {
+      "key": "7WBNLYPV",
+      "version": 9496,
+      "itemType": "journalArticle",
+      "title": "Effects of temperature and size on molting of euphausiid crustaceans",
+      "abstractNote": "The effects of temperature and body size on the intermolt periods (molting frequencies) of the North Pacific euphausíid Euphausia pacifica and the Mediterranean forms of Meganyctiphanes norvegica, Euphausia krohnii, Nematoscelis megalops, and Nyctiphanes couchii were studied under controlled conditions in the laboratory. Mean intermolt periods for E. pacifica and M. norvegica were inversely and linearly related to temperature, over temperature ranges which the euphausiids normally encounter in the sea. At higher temperatures there was a tendency for three size groups of M. norvegica to approach a minimum intermolt period independent of temperature. M. norvegica cycled for different time periods between 13° and 18°C molted regularly at mean frequencies which would be expected if the animals had been held constantly at the timeweighted means of the two experimental temperatures. The increase in mean intermolt period per unit weight was faster in small, fast-growing M. norvegica than in large, slow-growing adults. This relationship was corroborated by following the changes in the intermolt period of an actively growing individual N. couchii over an 11 month period. Neither feeding nor the time of year of collection affected the molting frequency as long as temperature and animal weight were held constant. No tendency was found for euphausiids of the same species and/or size, and from the same collection, to molt on the same night. Molting occurred at night 80 to 90% of the time for all species, over the temperature ranges normally experienced by the euphausiids in the sea, and over all animal weights tested. There appeared to be a weakening of the night-time molting rhythm at low temperatures. Although neither temperature nor anímal weight substantially affected the night-time molting rhythm, both affected the mean intermolt period. Therefore, both temperature and body size apparently act together to adjust the length of the intermolt period of each individual in increments of whole days, but they exert little control over time of molting within any 24h period. No information was obtained regarding the factors which specify night-time molting over daytime molting within any 24 h period; however, regulation of certain hormone activities is probably involved.",
+      "date": "1971-10-01",
+      "language": "en",
+      "libraryCatalog": "Springer Link",
+      "url": "https://doi.org/10.1007/BF00348020",
+      "accessDate": "2025-03-04T17:17:55Z",
+      "volume": "11",
+      "pages": "45-51",
+      "publicationTitle": "Marine Biology",
+      "DOI": "10.1007/BF00348020",
+      "issue": "1",
+      "journalAbbreviation": "Marine Biology",
+      "ISSN": "1432-1793",
+      "creators": [
+        {
+          "firstName": "S. W.",
+          "lastName": "Fowler",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "L. F.",
+          "lastName": "Small",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "S.",
+          "lastName": "Kečkeš",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Body Size",
+          "type": 1
+        },
+        {
+          "tag": "Experimental Temperature",
+          "type": 1
+        },
+        {
+          "tag": "Hormone Activity",
+          "type": 1
+        },
+        {
+          "tag": "Size Group",
+          "type": 1
+        },
+        {
+          "tag": "Unit Weight",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2025-03-04T17:17:55Z",
+      "dateModified": "2025-03-04T17:17:55Z",
+      "uri": "http://zotero.org/users/10816057/items/7WBNLYPV",
+      "itemID": 2968,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "fowlerEffectsTemperatureSize1971",
+      "itemKey": "7WBNLYPV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7WBNLYPV"
+    },
+    {
+      "key": "EY6E7YS2",
+      "version": 9507,
+      "itemType": "journalArticle",
+      "title": "Climate-dependent dispersal rates in metapopulations of burnet moths",
+      "abstractNote": "Predicted climate change implies warmer weather and a higher frequency of extreme weather situations. The consequences of the warm July in 2003 was investigated in contrast to the cold July in 2004 in southern Sweden with focus on the dispersal rate of two species of burnet moths (Zygaenidae). During an extensive mark-release-recapture program in metapopulations of burnet moths substantial differences in inter habitat patch dispersal rates were observed. For two species of Zygaena it was 2.14 and 2.18 times higher during the warm year. Measured patch dispersal rate significantly declined towards the edges of the large study-area, suggesting that individuals disperse outside the study-area. No significant differences in dispersal rates were found between the two species studied. The dispersal rates were similar for both females and males, and no density dependent effects on dispersal or effects of amount of nectar rich flowers were found. Dispersal events appeared as distinct movements, often reaching several kilometres. We conclude that dispersal depend on climatic conditions. Exceptionally warm years may be especially important for survival of certain species in metapopulation systems and this may be crucial for the survival of populations during scenarios of climate change.",
+      "date": "2012-12-01",
+      "language": "en",
+      "libraryCatalog": "Springer Link",
+      "url": "https://doi.org/10.1007/s10841-012-9481-4",
+      "accessDate": "2023-11-07T21:03:50Z",
+      "volume": "16",
+      "pages": "941-947",
+      "publicationTitle": "Journal of Insect Conservation",
+      "DOI": "10.1007/s10841-012-9481-4",
+      "issue": "6",
+      "journalAbbreviation": "J Insect Conserv",
+      "ISSN": "1572-9753",
+      "creators": [
+        {
+          "firstName": "Markus",
+          "lastName": "Franzén",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Sven G.",
+          "lastName": "Nilsson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Butterflies",
+          "type": 1
+        },
+        {
+          "tag": "Climate change",
+          "type": 1
+        },
+        {
+          "tag": "Connectivity",
+          "type": 1
+        },
+        {
+          "tag": "Conservation",
+          "type": 1
+        },
+        {
+          "tag": "Habitat",
+          "type": 1
+        },
+        {
+          "tag": "Landscape",
+          "type": 1
+        },
+        {
+          "tag": "Mobility",
+          "type": 1
+        },
+        {
+          "tag": "Movement",
+          "type": 1
+        },
+        {
+          "tag": "notion"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2023-11-07T21:03:50Z",
+      "dateModified": "2023-11-10T15:30:28Z",
+      "uri": "http://zotero.org/users/10816057/items/EY6E7YS2",
+      "itemID": 1213,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://link.springer.com/content/pdf/10.1007%2Fs10841-012-9481-4.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-11-07T21:03:52Z",
+          "dateModified": "2023-11-07T21:03:52Z",
+          "uri": "http://zotero.org/users/10816057/items/6MV75VNH",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\6MV75VNH\\Franzén and Nilsson - 2012 - Climate-dependent dispersal rates in metapopulatio.pdf",
+          "select": "zotero://select/library/items/6MV75VNH"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Notion",
+          "url": "notion://www.notion.so/Franz-n-Nilsson-2012-423d36175bd54bc4941e4274ec7fbbbf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-11-10T15:30:28Z",
+          "dateModified": "2023-11-10T15:30:28Z",
+          "uri": "http://zotero.org/users/10816057/items/ZXJDF772",
+          "select": "zotero://select/library/items/ZXJDF772"
+        }
+      ],
+      "notes": [],
+      "citationKey": "franzenClimatedependentDispersalRates2012",
+      "itemKey": "EY6E7YS2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/EY6E7YS2"
+    },
+    {
+      "key": "J9CVA9PQ",
+      "version": 9084,
+      "itemType": "journalArticle",
+      "title": "Questionable research practices in ecology and evolution",
+      "abstractNote": "We surveyed 807 researchers (494 ecologists and 313 evolutionary biologists) about their use of Questionable Research Practices (QRPs), including cherry picking statistically significant results, p hacking, and hypothesising after the results are known (HARKing). We also asked them to estimate the proportion of their colleagues that use each of these QRPs. Several of the QRPs were prevalent within the ecology and evolution research community. Across the two groups, we found 64% of surveyed researchers reported they had at least once failed to report results because they were not statistically significant (cherry picking); 42% had collected more data after inspecting whether results were statistically significant (a form of p hacking) and 51% had reported an unexpected finding as though it had been hypothesised from the start (HARKing). Such practices have been directly implicated in the low rates of reproducible results uncovered by recent large scale replication studies in psychology and other disciplines. The rates of QRPs found in this study are comparable with the rates seen in psychology, indicating that the reproducibility problems discovered in psychology are also likely to be present in ecology and evolution.",
+      "date": "Jul 16, 2018",
+      "language": "en",
+      "libraryCatalog": "PLoS Journals",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200303",
+      "accessDate": "2025-09-02T12:59:41Z",
+      "extra": "Publisher: Public Library of Science",
+      "volume": "13",
+      "pages": "e0200303",
+      "publicationTitle": "PLOS ONE",
+      "DOI": "10.1371/journal.pone.0200303",
+      "issue": "7",
+      "journalAbbreviation": "PLOS ONE",
+      "ISSN": "1932-6203",
+      "creators": [
+        {
+          "firstName": "Hannah",
+          "lastName": "Fraser",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tim",
+          "lastName": "Parker",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shinichi",
+          "lastName": "Nakagawa",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ashley",
+          "lastName": "Barnett",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Fiona",
+          "lastName": "Fidler",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Community ecology",
+          "type": 1
+        },
+        {
+          "tag": "Evolutionary biology",
+          "type": 1
+        },
+        {
+          "tag": "Behavioral ecology",
+          "type": 1
+        },
+        {
+          "tag": "Evolutionary ecology",
+          "type": 1
+        },
+        {
+          "tag": "Evolutionary rate",
+          "type": 1
+        },
+        {
+          "tag": "Psychology",
+          "type": 1
+        },
+        {
+          "tag": "Publication ethics",
+          "type": 1
+        },
+        {
+          "tag": "Statistical data",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2025-09-02T12:59:41Z",
+      "dateModified": "2025-09-02T12:59:41Z",
+      "uri": "http://zotero.org/users/10816057/items/J9CVA9PQ",
+      "itemID": 2927,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0200303&type=printable",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-09-02T12:59:51Z",
+          "dateModified": "2025-09-02T12:59:51Z",
+          "uri": "http://zotero.org/users/10816057/items/LIVVQJZJ",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\LIVVQJZJ\\Fraser et al. - 2018 - Questionable research practices in ecology and evo.pdf",
+          "select": "zotero://select/library/items/LIVVQJZJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "fraserQuestionableResearchPractices2018",
+      "itemKey": "J9CVA9PQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/J9CVA9PQ"
+    },
+    {
+      "key": "FKJJHKEA",
+      "version": 9504,
+      "itemType": "journalArticle",
+      "title": "Elevated temperatures translate into reduced dispersal abilities in a natural population of an aquatic insect",
+      "abstractNote": "Rising global temperatures force many species to shift their distribution ranges. However, whether or not (and how fast) such range shifts occur depends on species' dispersal capacities. In most ecological studies, dispersal-related traits (such as the wing size or wing loading in insects) are treated as fixed, species-specific characteristics, ignoring the important role of phenotypic plasticity during insect development. We tested the hypothesis that dispersal-related traits themselves vary in dependence of ambient environmental conditions (temperature regimes, discharge patterns and biotic interactions during individual development). We collected data over 8 years from a natural population of the crane fly Tipula maxima in central Germany. Using linear mixed-effect models, we analysed how phenotypic traits, phenological characteristics and population densities are affected by environmental conditions during the preceding 3, 6 and 12 months. We found a moderate (5.6%) increase in wing length per 1°C increase in mean annual temperatures during the previous year. At the same time, body weight increased by as much as 17.8% in females and 26.9% in males per 1°C, likely driven by increased habitat productivity, which resulted in a 16.4% (female) and 19.3% (male) increased wing loading. We further found a shorter, more synchronized emergence period (i.e. a narrower time frame for dispersal) with increasing temperatures. Altogether, our results suggest that dispersal abilities of T. maxima were negatively affected by elevated temperatures, and we discuss how similar patterns might affect the persistence of populations of other aquatic insects, especially stenoecious taxa with narrow distribution ranges. Our study calls for integration of information on temperature-induced phenotypic plasticity of dispersal-related traits into models forecasting range shifts in the face of climate change. Furthermore, the patterns reported here are likely to affect metapopulation dynamics of aquatic insects under climate change conditions and may contribute to the ongoing decline of insect biomass and diversity.",
+      "date": "2019",
+      "language": "en",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13054",
+      "accessDate": "2023-11-06T16:09:07Z",
+      "rights": "© 2019 The Authors. Journal of Animal Ecology © 2019 British Ecological Society",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2656.13054",
+      "volume": "88",
+      "pages": "1498-1509",
+      "publicationTitle": "Journal of Animal Ecology",
+      "DOI": "10.1111/1365-2656.13054",
+      "issue": "10",
+      "ISSN": "1365-2656",
+      "creators": [
+        {
+          "firstName": "Jonas",
+          "lastName": "Jourdan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Viktor",
+          "lastName": "Baranov",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Rüdiger",
+          "lastName": "Wagner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Martin",
+          "lastName": "Plath",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Peter",
+          "lastName": "Haase",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "climate change",
+          "type": 1
+        },
+        {
+          "tag": "dispersal capacity",
+          "type": 1
+        },
+        {
+          "tag": "intraspecific trait variation",
+          "type": 1
+        },
+        {
+          "tag": "notion"
+        },
+        {
+          "tag": "phenology",
+          "type": 1
+        },
+        {
+          "tag": "phenotypic plasticity",
+          "type": 1
+        },
+        {
+          "tag": "range shift",
+          "type": 1
+        },
+        {
+          "tag": "temperature-size rule",
+          "type": 1
+        },
+        {
+          "tag": "wing loading",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2023-11-06T16:09:07Z",
+      "dateModified": "2023-11-10T15:30:30Z",
+      "uri": "http://zotero.org/users/10816057/items/FKJJHKEA",
+      "itemID": 1210,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.13054",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-11-06T16:09:08Z",
+          "dateModified": "2023-11-06T16:09:08Z",
+          "uri": "http://zotero.org/users/10816057/items/YXA5C9TA",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\YXA5C9TA\\Jourdan et al. - 2019 - Elevated temperatures translate into reduced dispe.pdf",
+          "select": "zotero://select/library/items/YXA5C9TA"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Notion",
+          "url": "notion://www.notion.so/Jourdan-et-al-2019-b2cf31bdce6a427f8cfe6ad5676eb020",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-11-10T15:30:30Z",
+          "dateModified": "2023-11-10T15:30:30Z",
+          "uri": "http://zotero.org/users/10816057/items/R4WWGUEL",
+          "select": "zotero://select/library/items/R4WWGUEL"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13054",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-11-06T16:09:11Z",
+          "dateModified": "2023-11-06T16:09:11Z",
+          "uri": "http://zotero.org/users/10816057/items/5RS6YUYT",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\5RS6YUYT\\1365-2656.html",
+          "select": "zotero://select/library/items/5RS6YUYT"
+        }
+      ],
+      "notes": [],
+      "citationKey": "jourdanElevatedTemperaturesTranslate2019",
+      "itemKey": "FKJJHKEA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FKJJHKEA"
+    },
+    {
+      "key": "8ERX8WX2",
+      "version": 9393,
+      "itemType": "journalArticle",
+      "title": "Linking riparian shade and the legacies of forest management to fish and vertebrate biomass in forested streams",
+      "abstractNote": "Determining the factors that limit abundance and biomass of fish is fundamental to effective fisheries management. In streams, pool availability, cover, and habitat complexity often limit fish—particularly salmonids—and many restoration efforts are directed toward addressing physical habitat factors. However, the availability of prey, and the factors that influence prey abundance, can also influence the abundance, biomass, and growth of fish and other consumers. Both habitat and prey availability can be influenced by characteristics of the riparian forest in headwaters. In this study, we evaluate how variables associated with stream habitat, primary production, and macroinvertebrate biomass account for variability in the biomass of cutthroat trout and total vertebrates (fish and salamanders) across a series of paired stream reaches with contrasting forest structure. Each of nine stream pairs consisted of an old-growth reach and a reach bordered by 40- to 60-yr-old second-growth riparian forest. We evaluated relationships between response and explanatory variables for each forest structure type using correlation analysis, regression analysis, and AICc model comparison analyses. We also conducted correlation and regression analyses on within-stream reach pair differences across the nine study streams. Canopy openness, nitrate concentration, periphyton chlorophyll a accrual, total invertebrate biomass, predatory invertebrate biomass, cutthroat trout biomass, and total vertebrate biomass were all positively correlated with each other, while temperature was negatively correlated with biotic variables. Within reach pairs, canopy openness emerged as the strongest correlate with top predators, with differences in canopy openness explaining 84% of the variation in vertebrate biomass differences in the paired analysis. Other habitat metrics were poorly correlated with invertebrate, fish, and salamander biomass for all analyses. Overall, these results suggest that for the stream reaches surveyed here, resource availability—as regulated through bottom-up, autotrophic pathways—is a dominant control on fish and other consumers. This highlights the importance of food resource limitation for fish and top predators in headwater streams, and illustrates how differences in canopy structure can affect bottom-up drivers of stream food webs.",
+      "date": "2017",
+      "language": "en",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.1845",
+      "accessDate": "2025-09-13T14:27:48Z",
+      "rights": "© 2017 Kaylor and Warren.",
+      "extra": "_eprint: https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.1845",
+      "volume": "8",
+      "pages": "e01845",
+      "publicationTitle": "Ecosphere",
+      "DOI": "10.1002/ecs2.1845",
+      "issue": "6",
+      "ISSN": "2150-8925",
+      "creators": [
+        {
+          "firstName": "Matthew J.",
+          "lastName": "Kaylor",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Dana R.",
+          "lastName": "Warren",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "aquatic–terrestrial linkages",
+          "type": 1
+        },
+        {
+          "tag": "bottom-up controls",
+          "type": 1
+        },
+        {
+          "tag": "Oncorhynchus clarkii clarkii",
+          "type": 1
+        },
+        {
+          "tag": "riparian forests",
+          "type": 1
+        },
+        {
+          "tag": "trophic linkages",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2025-09-13T14:27:48Z",
+      "dateModified": "2025-09-13T14:27:57Z",
+      "uri": "http://zotero.org/users/10816057/items/8ERX8WX2",
+      "itemID": 3334,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://onlinelibrary-wiley-com.myaccess.library.utoronto.ca/doi/pdfdirect/10.1002/ecs2.1845",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-09-13T14:27:51Z",
+          "dateModified": "2025-09-13T14:27:51Z",
+          "uri": "http://zotero.org/users/10816057/items/NYA59PGP",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\NYA59PGP\\Kaylor and Warren - 2017 - Linking riparian shade and the legacies of forest management to fish and vertebrate biomass in fores.pdf",
+          "select": "zotero://select/library/items/NYA59PGP"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.1845",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-09-13T14:27:55Z",
+          "dateModified": "2025-09-13T14:27:55Z",
+          "uri": "http://zotero.org/users/10816057/items/YRFEJ96I",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\YRFEJ96I\\ecs2.html",
+          "select": "zotero://select/library/items/YRFEJ96I"
+        }
+      ],
+      "notes": [],
+      "citationKey": "kaylorLinkingRiparianShade2017",
+      "itemKey": "8ERX8WX2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8ERX8WX2"
+    },
+    {
+      "key": "EWN55D23",
+      "version": 9494,
+      "itemType": "journalArticle",
+      "title": "Growth, Molting Frequency, Heart Beat, Number of Eggs, and Incubation Time in Gammarus zaddachi Exposed to Different Environments",
+      "abstractNote": "Gammarus zaddachi vom Kleinen Kiel, Kiel, Norddeutschland, wurde im Laboratorium verschiedenen Temperatur- und Salzgehaltsbedingungen ausgesetzt und die Intensität einiger Lebensprozesse ermittelt. Alle Versuche wurden unter Standardbedingungen (Nahrung, Licht, Wassermenge pro Individuum, Wasserqualität) durchgeführt. Die Intensität von Wachstum, Häutungsfolge, Herzfrequenz, Eiproduktion und Embryonalentwicklung ist unter gleichen Umweltbedingungen ähnlich der von dem vorher untersuchten G. salinus (Kinne, 1960) vom gleichen Biotop. G. zaddachi und G. salinus unterscheiden sich jedoch hinsichtlich der Intensität dieser Lebensprozesse eindeutig von einer dritten Gammarus Art des Kleinen Kiels, nämlich von G. duebeni. Letzterer zeigt unter gleichen Bedingungen viel geringere Intensitäten (Kinne, 1952 b; 1953 a, b). Die Intervalle zwischen zwei aufeinanderfolgenden Häutungen sind bei den G. zaddachi Männchen länger als bei den Weibchen. In den Salzgehaltsstufen 5 ‰, 10 ‰ und 30 ‰ wurden keine eindeutigen Unterschiede festgestellt. Ohne Männchen gehaltene Weibchen zeigen eine Tendenz zur Verlängerung der Intervalle, und zwar beginnend mit dem dritten oder vierten Intervall nach erfolgter Isolation. Bei 17-21 mm langen Männchen und 14-16 mm langen Weibchen konnte keine Beziehung zwischen Körperlänge und Herzfrequenz nachgewiesen werden. Eine derartige Beziehung besteht jedoch bei grösseren Längenunterschieden: Die Herzfrequenz ist deutlich höher bei 5-6 mm langen Jungtieren. In den Salzgehaltsstufen 5 ‰ und 10 ‰ wurden keine signifikanten Unterschiede in der Herzfrequenz adulter Tiere festgestellt. Die Anzahl der Marsupialeier pro Weibchen einer gegebenen Länge hängt ab von der Temperatur (14°-16° C &gt 18°-20° C) und vom Salzgehalt. Es besteht eine lineare Beziehung zwischen der Eizahl und dem Volumen (Länge ³) des Muttertieres (Ausnahme: senile Weibchen). In Abwesenheit eines Männchens wird die Anzahl der abgelegten Eier in zunehmendem Mass reduziert. Eine normale Eizahl wird gewöhnlich nur deponiert im Anschluss an eine Spermaübertragung. Neben der funktionellen Ähnlichkeit von G. zaddachi und G. salinus besteht eine bemerkenswerte strukturelle Ähnlichkeit zwischen diesen beiden Arten (Spooner, 1947; Segerstråle, 1947; Kinne, 1954, etc.). Die vorliegenden Informationen drängen zu der Annahme, dass G. zaddachi und G. salinus zwei relativ junge Arten repräsentieren, die erst kürzlich ihre genetische Selbständigkeit erlangt haben (siehe auch Spooner, 1947, 1951; und Kinne, 1954). Die Unterschiede zwischen diesen beiden Arten kommen gegenwärtig vornehmlich zum Ausdruck in deren Verbreitung, Ökologie und interspezifischen Sterilität (Spooner, 1947; Segerstråle, 1947; Steen, 1951; Kinne, 1954; Forsman, 1956). Allerdings sind die zur Verfügung stehenden Daten unzureichend für eine ins einzelne gehende Analyse. Ein eingehenderes experimentelles Studium der physiologischen Potenzen von G. zaddachi und G. salinus wird möglicherweise zur Aufdeckung delikater Unterschiede führen und zu einem besseren Verständnis der Ökologie und Evolution dieser beiden Arten.",
+      "date": "1961",
+      "libraryCatalog": "JSTOR",
+      "url": "https://www.jstor.org/stable/20102358",
+      "accessDate": "2025-03-04T16:49:59Z",
+      "extra": "Publisher: Brill",
+      "volume": "2",
+      "pages": "26-36",
+      "publicationTitle": "Crustaceana",
+      "issue": "1",
+      "ISSN": "0011-216X",
+      "creators": [
+        {
+          "firstName": "Otto",
+          "lastName": "Kinne",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-03-04T16:49:59Z",
+      "dateModified": "2025-03-04T16:49:59Z",
+      "uri": "http://zotero.org/users/10816057/items/EWN55D23",
+      "itemID": 2970,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "JSTOR Full Text PDF",
+          "url": "https://www.jstor.org/stable/pdfplus/10.2307/20102358.pdf?acceptTC=true",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-03-04T16:50:02Z",
+          "dateModified": "2025-03-04T16:50:02Z",
+          "uri": "http://zotero.org/users/10816057/items/Z4WBFZVZ",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\Z4WBFZVZ\\Kinne - 1961 - Growth, Molting Frequency, Heart Beat, Number of E.pdf",
+          "select": "zotero://select/library/items/Z4WBFZVZ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "kinneGrowthMoltingFrequency1961",
+      "itemKey": "EWN55D23",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/EWN55D23"
+    },
+    {
+      "key": "3DBH3RYG",
+      "version": 9495,
+      "itemType": "journalArticle",
+      "title": "Effect of Change in Physical Parameters in the Paddling Response of the Common Backswimmer (Notonecta glauca)",
+      "abstractNote": "This study investigates the impact of varying environmental factors, specifically temperature, pH, and white light intensity, on the paddling response of the common backswimmer, Notonecta glauca Linnaeus 1758 (Hemiptera: Notonectidae). The normal paddling rate was established at approximately 31.6 flaps per minute (FPM) under controlled conditions of 30°C, pH 6.8, and 50% sunlight exposure. When exposed to increased pH levels, the paddling rate exhibited a significant increase, rising by nearly 75% compared to the normal rate. Conversely, a decrease in pH led to an even greater enhancement in paddling activity, with a rise of approximately 90%. A notable 321 response was observed under increased temperature, where the paddling rate surged by more than 2.6 times than expected, indicating a strong sensitivity to thermal changes. The most reduction in paddling activity occurred under low light intensity, with the rate plummeting to roughly 37% of the normal value. The findings underscore the susceptibility of N. glauca to variations in these key environmental parameters, particularly highlighting its heightened response to temperature fluctuations and low light conditions. The species of interest is observed as ecological sentinels and understanding its optimum limit of tolerance over fundamental physical parameters enables us to estimate the effect of climate change, environmental modifications and habitat alterations over the course of time.",
+      "date": "2024-01-01",
+      "libraryCatalog": "ResearchGate",
+      "volume": "45",
+      "pages": "320-327",
+      "publicationTitle": "Uttar Pradesh Journal of Zoology",
+      "DOI": "10.56557/upjoz/2024/v45i244736",
+      "journalAbbreviation": "UTTAR PRADESH JOURNAL OF ZOOLOGY",
+      "creators": [
+        {
+          "firstName": "Jithu Unni",
+          "lastName": "Krishnan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Surya",
+          "lastName": "Narayanan",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-03-10T16:05:54Z",
+      "dateModified": "2025-03-10T16:10:45Z",
+      "uri": "http://zotero.org/users/10816057/items/3DBH3RYG",
+      "itemID": 2962,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://www.researchgate.net/profile/Jithu-Unni-Krishnan-2/publication/387832607_Effect_of_Change_in_Physical_Parameters_in_the_Paddling_Response_of_the_Common_Backswimmer_Notonecta_glauca/links/677f462f79d6d00f5f5f0d94/Effect-of-Change-in-Physical-Parameters-in-the-Paddling-Response-of-the-Common-Backswimmer-Notonecta-glauca.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-03-10T16:05:58Z",
+          "dateModified": "2025-03-10T16:05:58Z",
+          "uri": "http://zotero.org/users/10816057/items/GRZHWIFC",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\GRZHWIFC\\Unni Krishnan and Narayanan - 2024 - Effect of Change in Physical Parameters in the Pad.pdf",
+          "select": "zotero://select/library/items/GRZHWIFC"
+        },
+        {
+          "itemType": "attachment",
+          "title": "ResearchGate Link",
+          "url": "https://www.researchgate.net/publication/387832607_Effect_of_Change_in_Physical_Parameters_in_the_Paddling_Response_of_the_Common_Backswimmer_Notonecta_glauca",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-03-10T16:05:58Z",
+          "dateModified": "2025-03-10T16:05:58Z",
+          "uri": "http://zotero.org/users/10816057/items/UFA754HH",
+          "select": "zotero://select/library/items/UFA754HH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "krishnanEffectChangePhysical2024",
+      "itemKey": "3DBH3RYG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/3DBH3RYG"
+    },
+    {
+      "key": "XUR87SVY",
+      "version": 9498,
+      "itemType": "journalArticle",
+      "title": "Climate warming, dispersal inhibition and extinction risk",
+      "abstractNote": "Global warming impels species to track their shifting habitats or adapt to new conditions. Both processes are critically influenced by individual dispersal. In many animals, dispersal behaviour is plastic, but how organisms with plastic dispersal respond to climate change is basically unknown. Here, we report the analysis of interannual dispersal change from 16 years of monitoring a wild population of the common lizard, and a 12-year manipulation of lizards' diet intended to disentangle the direct effect of temperature rise on dispersal from its effects on resource availability. We show that juvenile dispersal has declined dramatically over the last 16 years, paralleling the rise of spring temperatures during embryogenesis. A mesoscale model of metapopulation dynamics predicts that in general dispersal inhibition will elevate the extinction risk of metapopulations exposed to contrasting effects of climate warming.",
+      "date": "2008",
+      "language": "en",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2486.2007.01514.x",
+      "accessDate": "2024-06-12T12:46:51Z",
+      "rights": "© 2008 The Authors",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2486.2007.01514.x",
+      "volume": "14",
+      "pages": "461-469",
+      "publicationTitle": "Global Change Biology",
+      "DOI": "10.1111/j.1365-2486.2007.01514.x",
+      "issue": "3",
+      "ISSN": "1365-2486",
+      "creators": [
+        {
+          "firstName": "Manuel",
+          "lastName": "Massot",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jean",
+          "lastName": "Clobert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Régis",
+          "lastName": "Ferrière",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "climate warming",
+          "type": 1
+        },
+        {
+          "tag": "dispersal",
+          "type": 1
+        },
+        {
+          "tag": "food availability",
+          "type": 1
+        },
+        {
+          "tag": "long-term experiment",
+          "type": 1
+        },
+        {
+          "tag": "long-term study",
+          "type": 1
+        },
+        {
+          "tag": "mesoscale model",
+          "type": 1
+        },
+        {
+          "tag": "reptile",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2024-06-12T12:46:51Z",
+      "dateModified": "2024-06-12T12:46:51Z",
+      "uri": "http://zotero.org/users/10816057/items/XUR87SVY",
+      "itemID": 2097,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Massot et al. - 2008 - Climate warming, dispersal inhibition and extincti.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-06-12T12:47:49Z",
+          "dateModified": "2024-06-12T12:47:49Z",
+          "uri": "http://zotero.org/users/10816057/items/DGXLLBNP",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\DGXLLBNP\\Massot et al. - 2008 - Climate warming, dispersal inhibition and extincti.pdf",
+          "select": "zotero://select/library/items/DGXLLBNP"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2486.2007.01514.x?casa_token=pkeduXKMJjMAAAAA%3ADvkQiWK1zPlKWMZTFYWwxrXmEfWe_JkI7oF9b1E-wUizf_9UlDW-MaOzE9PPyDniFQJmceOoghj4",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-06-12T12:47:03Z",
+          "dateModified": "2024-06-12T12:47:03Z",
+          "uri": "http://zotero.org/users/10816057/items/2ZM4BGGJ",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\2ZM4BGGJ\\j.1365-2486.2007.01514.html",
+          "select": "zotero://select/library/items/2ZM4BGGJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "massotClimateWarmingDispersal2008",
+      "itemKey": "XUR87SVY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XUR87SVY"
+    },
+    {
+      "key": "A7YC3ZX7",
+      "version": 9492,
+      "itemType": "journalArticle",
+      "title": "Effects of the General Predator, Notonecta (Hemiptera) Upon a Freshwater Community",
+      "abstractNote": "(1) In laboratory experiments we estimated the attack rates and preferences of several instars of the predatory backswimmer, Notonecta hoffmani. The prey included mosquito larvae, surface prey, and three species of zooplankton: Ceriodaphnia reticulata, Daphnia pulex and Moina sp. Notonecta's predatory behaviour was shown to be stereotyped: neither level of hunger nor previous diet significantly influenced preference. Attack rate increased exponentially, and handling time decreased exponentially, with temperature. (2) These laboratory results and others reported elsewhere were used to explain the results of field experiments in which treatment prey populations in stock tanks on ranches in Southern California were exposed to predation by Notonecta populations at natural densities while controls were not. (3) In these field experiments, Notonecta strongly influenced the structure and dynamics of the community. It drove mosquito larvae and D. pulex extinct and reduced the density of Moina sp., C. reticulata, and several other species. Notonecta either destabilized its prey populations, by driving them extinct, or did not affect the degree of temporal variability. (4) We discuss the relationship of these results to prevailing views on the importance of predation by invertebrates in aquatic communities, extinction in natural communities, and the question of whether predators in general act to stabilize or destabilize prey populations. The qualitative results obtained in the field were well-predicted by the information obtained in the laboratory, but caution is needed in extrapolating estimates of absolute attack rates from the laboratory to the field.",
+      "date": "1984",
+      "libraryCatalog": "JSTOR",
+      "url": "https://www.jstor.org/stable/4660",
+      "accessDate": "2023-05-28T13:13:00Z",
+      "extra": "Publisher: [Wiley, British Ecological Society]",
+      "volume": "53",
+      "pages": "791-808",
+      "publicationTitle": "Journal of Animal Ecology",
+      "DOI": "10.2307/4660",
+      "issue": "3",
+      "ISSN": "0021-8790",
+      "creators": [
+        {
+          "firstName": "William W.",
+          "lastName": "Murdoch",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mary Ann",
+          "lastName": "Scott",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Peter",
+          "lastName": "Ebsworth",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-05-28T13:13:00Z",
+      "dateModified": "2023-05-28T13:13:05Z",
+      "uri": "http://zotero.org/users/10816057/items/A7YC3ZX7",
+      "itemID": 858,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "murdochEffectsGeneralPredator1984a",
+      "itemKey": "A7YC3ZX7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/A7YC3ZX7"
+    },
+    {
+      "key": "9TTCXHPB",
+      "version": 9082,
+      "itemType": "journalArticle",
+      "title": "Towards open, reliable, and transparent ecology and evolutionary biology",
+      "abstractNote": "Unreliable research programmes waste funds, time, and even the lives of the organisms we seek to help and understand. Reducing this waste and increasing the value of scientific evidence require changing the actions of both individual researchers and the institutions they depend on for employment and promotion. While ecologists and evolutionary biologists have somewhat improved research transparency over the past decade (e.g. more data sharing), major obstacles remain. In this commentary, we lift our gaze to the horizon to imagine how researchers and institutions can clear the path towards more credible and effective research programmes.",
+      "date": "2021-04-09",
+      "libraryCatalog": "BioMed Central",
+      "url": "https://doi.org/10.1186/s12915-021-01006-3",
+      "accessDate": "2025-09-02T12:59:22Z",
+      "volume": "19",
+      "pages": "68",
+      "publicationTitle": "BMC Biology",
+      "DOI": "10.1186/s12915-021-01006-3",
+      "issue": "1",
+      "journalAbbreviation": "BMC Biology",
+      "ISSN": "1741-7007",
+      "creators": [
+        {
+          "firstName": "Rose E.",
+          "lastName": "O’Dea",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Timothy H.",
+          "lastName": "Parker",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yung En",
+          "lastName": "Chee",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Antica",
+          "lastName": "Culina",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Szymon M.",
+          "lastName": "Drobniak",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David H.",
+          "lastName": "Duncan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Fiona",
+          "lastName": "Fidler",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Elliot",
+          "lastName": "Gould",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Malika",
+          "lastName": "Ihle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Clint D.",
+          "lastName": "Kelly",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Malgorzata",
+          "lastName": "Lagisz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Dominique G.",
+          "lastName": "Roche",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alfredo",
+          "lastName": "Sánchez-Tójar",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David P.",
+          "lastName": "Wilkinson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Bonnie C.",
+          "lastName": "Wintle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shinichi",
+          "lastName": "Nakagawa",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-09-02T12:59:23Z",
+      "dateModified": "2025-09-02T12:59:23Z",
+      "uri": "http://zotero.org/users/10816057/items/9TTCXHPB",
+      "itemID": 2928,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/s12915-021-01006-3",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-09-02T12:59:31Z",
+          "dateModified": "2025-09-02T12:59:31Z",
+          "uri": "http://zotero.org/users/10816057/items/I6PJRE53",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\I6PJRE53\\O’Dea et al. - 2021 - Towards open, reliable, and transparent ecology an.pdf",
+          "select": "zotero://select/library/items/I6PJRE53"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01006-3",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-09-02T12:59:32Z",
+          "dateModified": "2025-09-02T12:59:32Z",
+          "uri": "http://zotero.org/users/10816057/items/BJ78DXD2",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\BJ78DXD2\\s12915-021-01006-3.html",
+          "select": "zotero://select/library/items/BJ78DXD2"
+        }
+      ],
+      "notes": [],
+      "citationKey": "odeaOpenReliableTransparent2021",
+      "itemKey": "9TTCXHPB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9TTCXHPB"
+    },
+    {
+      "key": "24PZLWRM",
+      "version": 9377,
+      "itemType": "journalArticle",
+      "title": "Vertebrate Assemblages Associated with Headwater Hydrology in Western Oregon Managed Forests",
+      "abstractNote": "We characterized headwater stream habitats, fish and amphibian fauna, in and along 106 headwater stream reaches at 12 study sites within managed forest stands 40 to 70 years old in western Oregon. Headwater stream types in our sample included perennial, spatially intermittent, and dry reaches. We captured 454 fish of three species groups and 1,796 amphibians of 12 species. Using canonical correlation, nonmetric multidimensional scaling ordination, and generalized linear models, we identified species and assemblages associated with reach hydrologic type (e.g., perennial, intermittent, dry), stream size, gradient, and substrate composition. Our findings of torrent salamander (Rhyacotriton species) occurrences in spatially intermittent streams, and patchy and infrequent occurrences of Cottus fish (sculpins) and coastal tailed frogs (Ascaphus truei Stejneger) suggests these taxa warrant consideration during headwater management for retention of locally distinct biotic resources.",
+      "date": "2007-04-01",
+      "libraryCatalog": "Silverchair",
+      "url": "https://doi.org/10.1093/forestscience/53.2.343",
+      "accessDate": "2025-09-12T17:13:09Z",
+      "volume": "53",
+      "pages": "343-355",
+      "publicationTitle": "Forest Science",
+      "DOI": "10.1093/forestscience/53.2.343",
+      "issue": "2",
+      "journalAbbreviation": "for sci",
+      "ISSN": "0015-749X",
+      "creators": [
+        {
+          "firstName": "Deanna H.",
+          "lastName": "Olson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "George",
+          "lastName": "Weaver",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-09-12T17:13:10Z",
+      "dateModified": "2025-09-12T17:13:10Z",
+      "uri": "http://zotero.org/users/10816057/items/24PZLWRM",
+      "itemID": 3332,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://doi.org/10.1093/forestscience/53.2.343",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-09-12T17:13:17Z",
+          "dateModified": "2025-09-12T17:13:17Z",
+          "uri": "http://zotero.org/users/10816057/items/HREFHZNW",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\HREFHZNW\\53.2.html",
+          "select": "zotero://select/library/items/HREFHZNW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "olsonVertebrateAssemblagesAssociated2007",
+      "itemKey": "24PZLWRM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/24PZLWRM"
+    },
+    {
+      "key": "TV3W5KQY",
+      "version": 9506,
+      "itemType": "journalArticle",
+      "title": "Temperature reduces fish dispersal as larvae grow faster to their settlement size",
+      "abstractNote": "As species struggle to cope with rising ocean temperatures, temperate marine assemblages are facing major reorganization. Many benthic species have a brief but critical period dispersing through the plankton, when they are particularly susceptible to variations in temperature. Impacts of rising temperatures can thus ripple through the population with community-wide consequences. However, responses are highly species-specific, making it difficult to discern assemblage-wide patterns in the life histories of different fish species. Here, we evaluate the responses to temperature in the early life histories of several fish species using otolith reconstructive techniques. We also assess the consequences of future warming scenarios to this assemblage. We sampled recent settlers of nine common species across a temperature gradient in the Mediterranean Sea and obtained environmental data for each individual. Using otolith microstructure, we measured early life traits including pelagic larval duration (PLD), growth rate, settlement size, hatching and settlement dates. We used a GLM framework to examine how environmental variables influenced early life-history parameters. We show that increasing temperature results in considerable reduction in the dispersal potential of temperate fish. We find a nearly universal, assemblage-wide decline in pelagic larval duration (PLD) of between 10% and 25%. This was because, with increasing temperature, larvae grew quicker to their settlement size. Settlement size itself was less affected by temperature and appears to be an ontogenetically fixed process. Given current estimates of ocean warming, there could be an assemblage-wide reduction in larval dispersal of up to 50 km across the Mediterranean, reducing connectivity and potentially isolating populations as waters warm.",
+      "date": "2021",
+      "language": "en",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13435",
+      "accessDate": "2024-06-16T17:14:02Z",
+      "rights": "© 2021 British Ecological Society",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2656.13435",
+      "volume": "90",
+      "pages": "1419-1432",
+      "publicationTitle": "Journal of Animal Ecology",
+      "DOI": "10.1111/1365-2656.13435",
+      "issue": "6",
+      "ISSN": "1365-2656",
+      "creators": [
+        {
+          "firstName": "Nuria",
+          "lastName": "Raventos",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Héctor",
+          "lastName": "Torrado",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Rohan",
+          "lastName": "Arthur",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Teresa",
+          "lastName": "Alcoverro",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Enrique",
+          "lastName": "Macpherson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "climate change",
+          "type": 1
+        },
+        {
+          "tag": "early life traits",
+          "type": 1
+        },
+        {
+          "tag": "pelagic larval duration",
+          "type": 1
+        },
+        {
+          "tag": "productivity",
+          "type": 1
+        },
+        {
+          "tag": "temperature gradients",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2024-06-16T17:14:02Z",
+      "dateModified": "2024-06-16T17:14:11Z",
+      "uri": "http://zotero.org/users/10816057/items/TV3W5KQY",
+      "itemID": 2066,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.13435",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-06-16T17:14:10Z",
+          "dateModified": "2024-06-16T17:14:10Z",
+          "uri": "http://zotero.org/users/10816057/items/APAFUI5S",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\APAFUI5S\\Raventos et al. - 2021 - Temperature reduces fish dispersal as larvae grow .pdf",
+          "select": "zotero://select/library/items/APAFUI5S"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13435",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-06-16T17:14:21Z",
+          "dateModified": "2024-06-16T17:14:21Z",
+          "uri": "http://zotero.org/users/10816057/items/KAUYCK9M",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\KAUYCK9M\\1365-2656.html",
+          "select": "zotero://select/library/items/KAUYCK9M"
+        }
+      ],
+      "notes": [],
+      "citationKey": "raventosTemperatureReducesFish2021",
+      "itemKey": "TV3W5KQY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TV3W5KQY"
+    },
+    {
+      "key": "YSEGQR6P",
+      "version": 9497,
+      "itemType": "journalArticle",
+      "title": "Dispersal in a changing world: opportunities, insights and challenges",
+      "abstractNote": "It has been long recognised that dispersal is an important life-history trait that plays a key role in the demography and evolution of populations and species. This then suggests that dispersal play a central role in the response of populations and species to ever-increasing global change, including climate change, habitat loss and fragmentation, and biological invasions. During a symposium held at Lund University (Sweden), the causes and consequences of dispersal were discussed, and here we provide an overview of the talks. As the discussions often gravitated towards the role and our understanding of dispersal in a changing world and given the urgent challenges posed by it, we place this overview in the context of global change. We draw and discuss four conclusions: (i) methodological advances provide opportunities for improved future studies, (ii) dispersal distances can be much greater than previously thought (examples in plants and vertebrates), but also much more restricted (examples in micro-organisms), (iii) dispersal is more dynamic than we often care to admit (e.g. due to individual variation, effects of parasites, variation in life history, developmental and evolutionary responses, community impacts), (iv) using results of dispersal research for detailed prediction of outcomes under global change is currently mostly out of reach – nevertheless, that should not stop us from showing the many negative consequences of global change, and how dispersal is often a limiting factor in adapting to this.",
+      "date": "2013-10-14",
+      "shortTitle": "Dispersal in a changing world",
+      "libraryCatalog": "BioMed Central",
+      "url": "https://doi.org/10.1186/2051-3933-1-10",
+      "accessDate": "2024-02-29T18:53:52Z",
+      "volume": "1",
+      "pages": "10",
+      "publicationTitle": "Movement Ecology",
+      "DOI": "10.1186/2051-3933-1-10",
+      "issue": "1",
+      "journalAbbreviation": "Movement Ecology",
+      "ISSN": "2051-3933",
+      "creators": [
+        {
+          "firstName": "Sylvie VM",
+          "lastName": "Tesson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pim",
+          "lastName": "Edelaar",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Challenges",
+          "type": 1
+        },
+        {
+          "tag": "Dispersal",
+          "type": 1
+        },
+        {
+          "tag": "Global change",
+          "type": 1
+        },
+        {
+          "tag": "Insights",
+          "type": 1
+        },
+        {
+          "tag": "Opportunities",
+          "type": 1
+        },
+        {
+          "tag": "Symposium report",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2024-02-29T18:53:52Z",
+      "dateModified": "2024-02-29T18:53:56Z",
+      "uri": "http://zotero.org/users/10816057/items/YSEGQR6P",
+      "itemID": 1879,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://movementecologyjournal.biomedcentral.com/counter/pdf/10.1186/2051-3933-1-10",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-02-29T18:53:54Z",
+          "dateModified": "2024-02-29T18:53:54Z",
+          "uri": "http://zotero.org/users/10816057/items/G2M8JJFV",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\G2M8JJFV\\Tesson and Edelaar - 2013 - Dispersal in a changing world opportunities, insi.pdf",
+          "select": "zotero://select/library/items/G2M8JJFV"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://movementecologyjournal.biomedcentral.com/articles/10.1186/2051-3933-1-10",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-02-29T18:53:57Z",
+          "dateModified": "2024-02-29T18:53:57Z",
+          "uri": "http://zotero.org/users/10816057/items/TVXGRZNH",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\TVXGRZNH\\2051-3933-1-10.html",
+          "select": "zotero://select/library/items/TVXGRZNH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "tessonDispersalChangingWorld2013",
+      "itemKey": "YSEGQR6P",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YSEGQR6P"
+    },
+    {
+      "key": "GZ35Y2LG",
+      "version": 9376,
+      "itemType": "journalArticle",
+      "title": "Classification strengths of ecoregions, catchments, and geographic clusters for aquatic vertebrates in Oregon",
+      "abstractNote": "The usefulness of ecoregions and catchments (hydrologic units) as bases for classifying aquatic vertebrate assemblages in western Oregon was compared using samples collected by electrofishing from 137 wadeable stream sites distributed evenly throughout the region. The classification strengths of these regionalizations were also compared with neutral-model classifications that were based either on intersite proximities in geographic distance or on intersite similarities in the sampled vertebrate assemblages. The strength of each classification was assessed by the extent to which average within-class assemblage similarities exceeded the average similarity between classes. Mean similarity dendrograms were used as a concise graphical comparison of between- and within-class similarities for alternative classifications, whether they were specified a priori or constructed by clustering. For each a priori classification, a permutation test of the no class structure hypothesis was performed. Classification strengths were assessed using the Sorenson–Dice (presence/absence) and Bray–Curtis (relative abundance) similarity measures, applied to both species-level and family-level assemblage characterizations, as well as for the Bray–Curtis measure applied to a set of 5 assemblage metrics that were designed to reflect stream impairment. For all 5 measures of assemblage similarity, ecoregions had higher classification strengths than did large catchments, and large catchments had about the same strength as a stream-order classification. A catchment classification with 1 of the 3 catchments split into 2 ecoregions separated assemblages as strongly as ecoregions alone. A neutral-model classification based solely on geographic site proximity classified assemblages with about the same strength as ecoregions. Another neutral-model classification of sites, based solely on their sampled assemblages, was at least twice as strong as any of the geographic classifications. Intermediate strength was seen in site groupings derived from a composite measure of between-site assemblage and geographic dissimilarities. Our results suggest that ecoregions and large catchments do indeed have utility for classifying stream vertebrate assemblages. However, much of their classification strength may be a result of spatial autocorrelation effects, rather than ecological factors that determine their particular boundaries. Our similarity analyses also suggest that geographic partitions can be expected to account for only a minor portion of the total variation seen in stream vertebrate assemblages across a large region.",
+      "date": "2000-09",
+      "libraryCatalog": "journals.uchicago.edu (Atypon)",
+      "url": "https://www.journals.uchicago.edu/doi/abs/10.2307/1468101",
+      "accessDate": "2025-09-12T17:12:06Z",
+      "extra": "Publisher: The University of Chicago Press",
+      "volume": "19",
+      "pages": "370-384",
+      "publicationTitle": "Journal of the North American Benthological Society",
+      "DOI": "10.2307/1468101",
+      "issue": "3",
+      "ISSN": "0887-3593",
+      "creators": [
+        {
+          "firstName": "John",
+          "lastName": "Van Sickle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Robert M.",
+          "lastName": "Hughes",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "streams",
+          "type": 1
+        },
+        {
+          "tag": "amphibians",
+          "type": 1
+        },
+        {
+          "tag": "assemblages",
+          "type": 1
+        },
+        {
+          "tag": "catchments",
+          "type": 1
+        },
+        {
+          "tag": "classification",
+          "type": 1
+        },
+        {
+          "tag": "cluster analysis",
+          "type": 1
+        },
+        {
+          "tag": "communities",
+          "type": 1
+        },
+        {
+          "tag": "dendrogram",
+          "type": 1
+        },
+        {
+          "tag": "ecoregions",
+          "type": 1
+        },
+        {
+          "tag": "fish",
+          "type": 1
+        },
+        {
+          "tag": "similarity",
+          "type": 1
+        },
+        {
+          "tag": "western Oregon",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2025-09-12T17:12:06Z",
+      "dateModified": "2025-09-12T17:12:07Z",
+      "uri": "http://zotero.org/users/10816057/items/GZ35Y2LG",
+      "itemID": 3330,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "vansickleClassificationStrengthsEcoregions2000",
+      "itemKey": "GZ35Y2LG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/GZ35Y2LG"
+    },
+    {
+      "key": "2IB5W59V",
+      "version": 9505,
+      "itemType": "journalArticle",
+      "title": "Physiology can predict animal activity, exploration, and dispersal",
+      "abstractNote": "Physiology can underlie movement, including short-term activity, exploration of unfamiliar environments, and larger scale dispersal, and thereby influence species distributions in an environmentally sensitive manner. We conducted meta-analyses of the literature to establish, firstly, whether physiological traits underlie activity, exploration, and dispersal by individuals (88 studies), and secondly whether physiological characteristics differed between range core and edges of distributions (43 studies). We show that locomotor performance and metabolism influenced individual movement with varying levels of confidence. Range edges differed from cores in traits that may be associated with dispersal success, including metabolism, locomotor performance, corticosterone levels, and immunity, and differences increased with increasing time since separation. Physiological effects were particularly pronounced in birds and amphibians, but taxon-specific differences may reflect biased sampling in the literature, which also focussed primarily on North America, Europe, and Australia. Hence, physiology can influence movement, but undersampling and bias currently limits general conclusions.",
+      "date": "2022-02-03",
+      "language": "en",
+      "libraryCatalog": "www.nature.com",
+      "url": "https://www.nature.com/articles/s42003-022-03055-y",
+      "accessDate": "2024-06-27T11:59:21Z",
+      "rights": "2022 The Author(s)",
+      "extra": "Publisher: Nature Publishing Group",
+      "volume": "5",
+      "pages": "1-11",
+      "publicationTitle": "Communications Biology",
+      "DOI": "10.1038/s42003-022-03055-y",
+      "issue": "1",
+      "journalAbbreviation": "Commun Biol",
+      "ISSN": "2399-3642",
+      "creators": [
+        {
+          "firstName": "Nicholas C.",
+          "lastName": "Wu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Frank",
+          "lastName": "Seebacher",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Animal physiology",
+          "type": 1
+        },
+        {
+          "tag": "Ecophysiology",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2024-06-27T11:59:21Z",
+      "dateModified": "2024-06-27T11:59:21Z",
+      "uri": "http://zotero.org/users/10816057/items/2IB5W59V",
+      "itemID": 2034,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://www.nature.com/articles/s42003-022-03055-y.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-06-27T11:59:27Z",
+          "dateModified": "2024-06-27T11:59:27Z",
+          "uri": "http://zotero.org/users/10816057/items/U6VYSETF",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\U6VYSETF\\Wu and Seebacher - 2022 - Physiology can predict animal activity, exploratio.pdf",
+          "select": "zotero://select/library/items/U6VYSETF"
+        }
+      ],
+      "notes": [],
+      "citationKey": "wuPhysiologyCanPredict2022",
+      "itemKey": "2IB5W59V",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2IB5W59V"
+    }
+  ]
+}
