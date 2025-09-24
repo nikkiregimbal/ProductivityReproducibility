@@ -13,8 +13,6 @@ disp <-subset(df, Disp_Count >= 0) #only 30 individuals survived to the dispersa
 
 disp_count <- table(disp$Treatment, disp$Disp_Count) #table of individuals in dispersal propensity assay by temperature treatment
 
-sum(disp$Disp_Count) #only 3 individuals attempted dispersal in the dispersal propensity assay
-
 disp_final <- table(disp$Treatment, disp$Dispersed) #table of individuals that dispersed in dispersal ability assay by temperature
 
 sum(disp$Dispersed) #only 1 individual actually dispersed away from the experiment

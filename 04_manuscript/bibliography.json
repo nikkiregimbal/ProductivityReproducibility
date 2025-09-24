@@ -207,6 +207,420 @@
       "select": "zotero://select/library/items/4IUR7KVZ"
     },
     {
+      "key": "DTWNJ4A4",
+      "version": 9791,
+      "itemType": "journalArticle",
+      "title": "Immigrants and refugees: the importance of dispersal in mediating biotic attrition under climate change",
+      "abstractNote": "Montane tropical rainforests are critically important areas for global bird diversity, but are projected to be highly vulnerable to contemporary climate change. Upslope shifts of lowland species may partially offset declines in upland species but also result in a process of lowland biotic attrition. This latter process is contingent on the absence of species adapted to novel warm climates, and isolation from pools of potential colonizers. In the Australian Wet Tropics, species distribution modelling has forecast critical declines in suitable environmental area for upland endemic birds, raising the question of the future role of both natural and assisted dispersal in species survival, but information is lacking for important neighbouring rainforest regions. Here we use expanded geographic coverage of data to model the realized distributions of 120 bird species found in north-eastern Australian rainforest, including species from potential source locations in the north and recipient locations in the south. We reaffirm previous conclusions as to the high vulnerability of this fauna to global warming, and extend the list of species whose suitable environmental area is projected to decrease. However, we find that expansion of suitable area for some species currently restricted to northern rainforests has the potential to offset biotic attrition in lowland forest of the Australian Wet Tropics. By examining contrasting dispersal scenarios, we show that responses to climate change in this region may critically depend on dispersal limitation, as climate change shifts the suitable environmental envelopes of many species south into currently unsuitable habitats. For lowland and northern species, future change in vegetation connectivity across contemporary habitat barriers is likely to be an important mediator of climate change impacts. In contrast, upland species are projected to become increasingly isolated and restricted. Their survival is likely to be more dependent on the viability of assisted migration, and the emergence and persistence of suitable environments at recipient locations.",
+      "date": "2012",
+      "language": "en",
+      "shortTitle": "Immigrants and refugees",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2486.2012.02683.x",
+      "accessDate": "2024-06-17T23:52:45Z",
+      "rights": "© 2012 Blackwell Publishing Ltd",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2486.2012.02683.x",
+      "volume": "18",
+      "pages": "2126-2134",
+      "publicationTitle": "Global Change Biology",
+      "DOI": "10.1111/j.1365-2486.2012.02683.x",
+      "issue": "7",
+      "ISSN": "1365-2486",
+      "creators": [
+        {
+          "firstName": "Alex S.",
+          "lastName": "Anderson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "April E.",
+          "lastName": "Reside",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jeremy J.",
+          "lastName": "VanDerWal",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Luke P.",
+          "lastName": "Shoo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Richard G.",
+          "lastName": "Pearson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Stephen E.",
+          "lastName": "Williams",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "climate change",
+          "type": 1
+        },
+        {
+          "tag": "global warming",
+          "type": 1
+        },
+        {
+          "tag": "MAXENT",
+          "type": 1
+        },
+        {
+          "tag": "montane tropics",
+          "type": 1
+        },
+        {
+          "tag": "ornithology",
+          "type": 1
+        },
+        {
+          "tag": "range shift",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2024-06-17T23:52:46Z",
+      "dateModified": "2024-06-17T23:52:46Z",
+      "uri": "http://zotero.org/users/10816057/items/DTWNJ4A4",
+      "itemID": 2064,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2486.2012.02683.x",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-06-17T23:52:48Z",
+          "dateModified": "2024-06-17T23:52:48Z",
+          "uri": "http://zotero.org/users/10816057/items/UJGTV5JW",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\UJGTV5JW\\Anderson et al. - 2012 - Immigrants and refugees the importance of dispers.pdf",
+          "select": "zotero://select/library/items/UJGTV5JW"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2012.02683.x?casa_token=742EqdHXchUAAAAA%3AND5CKWr7dReWNoAWVu4NTBwQU3vEUCqq1YDAZ7d5jO8iRhZ20iPviFBxe3Of3KoLVvRrKIF0Z4FS",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-06-17T23:52:58Z",
+          "dateModified": "2024-06-17T23:52:58Z",
+          "uri": "http://zotero.org/users/10816057/items/6YLL3BIA",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\6YLL3BIA\\j.1365-2486.2012.02683.html",
+          "select": "zotero://select/library/items/6YLL3BIA"
+        }
+      ],
+      "notes": [],
+      "citationKey": "andersonImmigrantsRefugeesImportance2012",
+      "itemKey": "DTWNJ4A4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/DTWNJ4A4"
+    },
+    {
+      "key": "P4SPT3HC",
+      "version": 9787,
+      "itemType": "journalArticle",
+      "title": "Dispersal depends on body condition and predation risk in the semi-aquatic insect, Notonecta undulata",
+      "abstractNote": "Dispersal is the movement of organisms across space, which has important implications for ecological and evolutionary processes, including community composition and gene flow. Previous studies have demonstrated that dispersal is influenced by body condition; however, few studies have been able to separate the effects of body condition from correlated variables such as body size. Moreover, the results of these studies have been inconsistent with respect to the direction of the relationship between condition and dispersal. We examined whether body condition influences dispersal in backswimmers (Notonecta undulata). We also tested whether an interaction between body condition and predation risk (another proximate factor that influences dispersal) could contribute to the previously observed inconsistent relationship between condition and dispersal. We imposed diet treatments on backswimmers in the laboratory, and measured the effects of food availability on body condition and dispersal in the field. We found that dispersal was a positive function of body condition, which may have important consequences for population characteristics such as the rate of gene flow and population growth. However, the effects of body condition and predation risk were additive, not interactive, and therefore, our data do not support the hypothesis that the interaction between condition and predation risk contributes to the inconsistency in the results of previous condition-dependent dispersal studies.",
+      "date": "2015",
+      "language": "en",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.1508",
+      "accessDate": "2023-02-02T01:24:27Z",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.1508",
+      "volume": "5",
+      "pages": "2307-2316",
+      "publicationTitle": "Ecology and Evolution",
+      "DOI": "10.1002/ece3.1508",
+      "issue": "12",
+      "ISSN": "2045-7758",
+      "creators": [
+        {
+          "firstName": "Celina B.",
+          "lastName": "Baines",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shannon J.",
+          "lastName": "McCauley",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Locke",
+          "lastName": "Rowe",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Body condition",
+          "type": 1
+        },
+        {
+          "tag": "dispersal",
+          "type": 1
+        },
+        {
+          "tag": "Notonecta",
+          "type": 1
+        },
+        {
+          "tag": "predation risk",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2023-02-02T01:24:27Z",
+      "dateModified": "2023-02-02T01:24:27Z",
+      "uri": "http://zotero.org/users/10816057/items/P4SPT3HC",
+      "itemID": 446,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.1508",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-02-02T01:24:29Z",
+          "dateModified": "2023-02-02T01:24:29Z",
+          "uri": "http://zotero.org/users/10816057/items/SCPY6PRR",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\SCPY6PRR\\Baines et al. - 2015 - Dispersal depends on body condition and predation .pdf",
+          "select": "zotero://select/library/items/SCPY6PRR"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.1508",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-02-02T01:24:33Z",
+          "dateModified": "2023-02-02T01:24:33Z",
+          "uri": "http://zotero.org/users/10816057/items/KCAE4MEL",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\KCAE4MEL\\ece3.html",
+          "select": "zotero://select/library/items/KCAE4MEL"
+        }
+      ],
+      "notes": [],
+      "citationKey": "bainesDispersalDependsBody2015",
+      "itemKey": "P4SPT3HC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/P4SPT3HC"
+    },
+    {
+      "key": "KRFNP96G",
+      "version": 9781,
+      "itemType": "journalArticle",
+      "title": "Fitting Linear Mixed-Effects Models Using <b>lme4</b>",
+      "abstractNote": "Maximum likelihood or restricted maximum likelihood (REML) estimates of the parameters in linear mixed-eﬀects models can be determined using the lmer function in the lme4 package for R. As for most model-ﬁtting functions in R, the model is described in an lmer call by a formula, in this case including both ﬁxed- and random-eﬀects terms. The formula and data together determine a numerical representation of the model from which the proﬁled deviance or the proﬁled REML criterion can be evaluated as a function of some of the model parameters. The appropriate criterion is optimized, using one of the constrained optimization functions in R, to provide the parameter estimates. We describe the structure of the model, the steps in evaluating the proﬁled deviance or REML criterion, and the structure of classes or types that represents such a model. Suﬃcient detail is included to allow specialization of these structures by users who wish to write functions to ﬁt specialized linear mixed models, such as models incorporating pedigrees or smoothing splines, that are not easily expressible in the formula language used by lmer.",
+      "date": "2015",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "http://www.jstatsoft.org/v67/i01/",
+      "accessDate": "2023-02-02T01:25:42Z",
+      "volume": "67",
+      "publicationTitle": "Journal of Statistical Software",
+      "DOI": "10.18637/jss.v067.i01",
+      "issue": "1",
+      "journalAbbreviation": "J. Stat. Soft.",
+      "ISSN": "1548-7660",
+      "creators": [
+        {
+          "firstName": "Douglas",
+          "lastName": "Bates",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Martin",
+          "lastName": "Mächler",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ben",
+          "lastName": "Bolker",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Steve",
+          "lastName": "Walker",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-02-02T01:25:42Z",
+      "dateModified": "2023-02-02T01:25:43Z",
+      "uri": "http://zotero.org/users/10816057/items/KRFNP96G",
+      "itemID": 443,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Bates et al. - 2015 - Fitting Linear Mixed-Effects Models Using lme4.pdf",
+          "url": "https://arxiv.org/pdf/1406.5823.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-02-02T01:25:40Z",
+          "dateModified": "2023-02-02T01:25:44Z",
+          "uri": "http://zotero.org/users/10816057/items/FPKHBCLN",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\FPKHBCLN\\Bates et al. - 2015 - Fitting Linear Mixed-Effects Models Using lme4.pdf",
+          "select": "zotero://select/library/items/FPKHBCLN"
+        }
+      ],
+      "notes": [],
+      "citationKey": "batesFittingLinearMixedEffects2015",
+      "itemKey": "KRFNP96G",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KRFNP96G"
+    },
+    {
+      "key": "BYJNJ8UQ",
+      "version": 9782,
+      "itemType": "journalArticle",
+      "title": "Adapt or disperse: understanding species persistence in a changing world",
+      "abstractNote": "The majority of studies on environmental change focus on the response of single species and neglect fundamental biotic interactions, such as mutualism, competition, predation, and parasitism, which complicate patterns of species persistence. Under global warming, disruption of community interactions can arise when species differ in their sensitivity to rising temperature, leading to mismatched phenologies and/or dispersal patterns. To study species persistence under global climate change, it is critical to consider the ecology and evolution of multispecies interactions; however, the sheer number of potential interactions makes a full study of all interactions unfeasible. One mechanistic approach to solving the problem of complicated community context to global change is to (i) define strategy groups of species based on life-history traits, trophic position, or location in the ecosystem, (ii) identify species involved in key interactions within these groups, and (iii) determine from the interactions of these key species which traits to study in order to understand the response to global warming. We review the importance of multispecies interactions looking at two trait categories: thermal sensitivity of metabolic rate and associated life-history traits and dispersal traits of species. A survey of published literature shows pronounced and consistent differences among trophic groups in thermal sensitivity of life-history traits and in dispersal distances. Our approach increases the feasibility of unraveling such a large and diverse set of community interactions, with the ultimate goal of improving our understanding of community responses to global warming.",
+      "date": "2010",
+      "language": "en",
+      "shortTitle": "Adapt or disperse",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2486.2009.02014.x",
+      "accessDate": "2023-10-16T13:05:21Z",
+      "rights": "© 2009 Blackwell Publishing Ltd",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2486.2009.02014.x",
+      "volume": "16",
+      "pages": "587-598",
+      "publicationTitle": "Global Change Biology",
+      "DOI": "10.1111/j.1365-2486.2009.02014.x",
+      "issue": "2",
+      "ISSN": "1365-2486",
+      "creators": [
+        {
+          "firstName": "Matty P.",
+          "lastName": "Berg",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "E. Toby",
+          "lastName": "Kiers",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gerard",
+          "lastName": "Driessen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Marcel",
+          "lastName": "Van Der Heijden",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Bob W.",
+          "lastName": "Kooi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Frans",
+          "lastName": "Kuenen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Maartje",
+          "lastName": "Liefting",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Herman A.",
+          "lastName": "Verhoef",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jacintha",
+          "lastName": "Ellers",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "adaptation",
+          "type": 1
+        },
+        {
+          "tag": "climate change",
+          "type": 1
+        },
+        {
+          "tag": "dispersal",
+          "type": 1
+        },
+        {
+          "tag": "interaction network",
+          "type": 1
+        },
+        {
+          "tag": "notion"
+        },
+        {
+          "tag": "phenotypic plasticity",
+          "type": 1
+        },
+        {
+          "tag": "species interaction",
+          "type": 1
+        },
+        {
+          "tag": "temperature",
+          "type": 1
+        },
+        {
+          "tag": "thermal reaction norm",
+          "type": 1
+        },
+        {
+          "tag": "warming",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2023-10-16T13:05:22Z",
+      "dateModified": "2025-08-13T19:57:27Z",
+      "uri": "http://zotero.org/users/10816057/items/BYJNJ8UQ",
+      "itemID": 1066,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Notion",
+          "url": "notion://www.notion.so/Berg-et-al-2010-97c495eb47d947979d7054b87b7ff74f",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-10-26T14:52:10Z",
+          "dateModified": "2023-10-26T14:52:10Z",
+          "uri": "http://zotero.org/users/10816057/items/UAWXHJ88",
+          "select": "zotero://select/library/items/UAWXHJ88"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2486.2009.02014.x?casa_token=eckNCkl8jaEAAAAA:Cu9sEOArTpgy4rUdfHYrWZRviT09LUQopsJaeKp5K_c50ua6eZktkFaKIlqmEBsP7Fj8dmjM3jSTpOk",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-10-16T13:05:27Z",
+          "dateModified": "2023-10-16T13:05:27Z",
+          "uri": "http://zotero.org/users/10816057/items/LRQRD5PM",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\LRQRD5PM\\j.1365-2486.2009.02014.html",
+          "select": "zotero://select/library/items/LRQRD5PM"
+        }
+      ],
+      "notes": [],
+      "citationKey": "bergAdaptDisperseUnderstanding2010",
+      "itemKey": "BYJNJ8UQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/BYJNJ8UQ"
+    },
+    {
       "key": "9UVXBSWN",
       "version": 9082,
       "itemType": "journalArticle",
@@ -541,6 +955,221 @@
       "itemKey": "F4BGU6R3",
       "libraryID": 1,
       "select": "zotero://select/library/items/F4BGU6R3"
+    },
+    {
+      "key": "VMC6BR57",
+      "version": 9780,
+      "itemType": "journalArticle",
+      "title": "Rapid Range Shifts of Species Associated with High Levels of Climate Warming",
+      "abstractNote": "The distributions of many terrestrial organisms are currently shifting in latitude or elevation in response to changing climate. Using a meta-analysis, we estimated that the distributions of species have recently shifted to higher elevations at a median rate of 11.0 meters per decade, and to higher latitudes at a median rate of 16.9 kilometers per decade. These rates are approximately two and three times faster than previously reported. The distances moved by species are greatest in studies showing the highest levels of warming, with average latitudinal shifts being generally sufficient to track temperature changes. However, individual species vary greatly in their rates of change, suggesting that the range shift of each species depends on multiple internal species traits and external drivers of change. Rapid average shifts derive from a wide diversity of responses by individual species.",
+      "date": "2011-08-19",
+      "libraryCatalog": "science.org (Atypon)",
+      "url": "https://www.science.org/doi/full/10.1126/science.1206432",
+      "accessDate": "2023-10-22T15:33:19Z",
+      "extra": "Publisher: American Association for the Advancement of Science",
+      "volume": "333",
+      "pages": "1024-1026",
+      "publicationTitle": "Science",
+      "DOI": "10.1126/science.1206432",
+      "issue": "6045",
+      "creators": [
+        {
+          "firstName": "I-Ching",
+          "lastName": "Chen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jane K.",
+          "lastName": "Hill",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ralf",
+          "lastName": "Ohlemüller",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David B.",
+          "lastName": "Roy",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Chris D.",
+          "lastName": "Thomas",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "notion"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2023-10-22T15:33:19Z",
+      "dateModified": "2023-10-26T14:51:55Z",
+      "uri": "http://zotero.org/users/10816057/items/VMC6BR57",
+      "itemID": 1174,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://www.science.org/doi/pdf/10.1126/science.1206432?casa_token=ICDU8QQEOpgAAAAA%3AyUslLfyoA5OcYxPtx0zZCp6CVCDM0T7gZivIEwJD0s0up3cVwur1UQiRx-R7io0Y63wqvezkrb7joIM",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-10-22T15:33:20Z",
+          "dateModified": "2023-10-22T15:33:20Z",
+          "uri": "http://zotero.org/users/10816057/items/3TK96QQ9",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\3TK96QQ9\\Chen et al. - 2011 - Rapid Range Shifts of Species Associated with High.pdf",
+          "select": "zotero://select/library/items/3TK96QQ9"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Notion",
+          "url": "notion://www.notion.so/Chen-et-al-2011-721da462bc194e219a7d620b0fc4082b",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-10-26T14:51:55Z",
+          "dateModified": "2024-01-19T14:50:08Z",
+          "uri": "http://zotero.org/users/10816057/items/SQWXLIQP",
+          "select": "zotero://select/library/items/SQWXLIQP"
+        }
+      ],
+      "notes": [],
+      "citationKey": "chenRapidRangeShifts2011",
+      "itemKey": "VMC6BR57",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VMC6BR57"
+    },
+    {
+      "key": "25YCAX5V",
+      "version": 9786,
+      "itemType": "journalArticle",
+      "title": "Seasonal Distribution and Life History of Notonecta Undulata in the Winnipeg Region, Canada",
+      "date": "1928",
+      "libraryCatalog": "JSTOR",
+      "url": "https://www.jstor.org/stable/1929407",
+      "accessDate": "2023-02-02T01:28:16Z",
+      "extra": "Publisher: Ecological Society of America",
+      "volume": "9",
+      "pages": "383-403",
+      "publicationTitle": "Ecology",
+      "DOI": "10.2307/1929407",
+      "issue": "4",
+      "ISSN": "0012-9658",
+      "creators": [
+        {
+          "firstName": "L. B.",
+          "lastName": "Clark",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2023-02-02T01:28:16Z",
+      "dateModified": "2023-02-02T01:28:16Z",
+      "uri": "http://zotero.org/users/10816057/items/25YCAX5V",
+      "itemID": 438,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "JSTOR Full Text PDF",
+          "url": "https://www.jstor.org/stable/pdfplus/10.2307/1929407.pdf?acceptTC=true",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-02-02T01:28:19Z",
+          "dateModified": "2023-02-02T01:28:19Z",
+          "uri": "http://zotero.org/users/10816057/items/WF5BMVSP",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\WF5BMVSP\\Clark - 1928 - Seasonal Distribution and Life History of Notonect.pdf",
+          "select": "zotero://select/library/items/WF5BMVSP"
+        }
+      ],
+      "notes": [],
+      "citationKey": "clarkSeasonalDistributionLife1928",
+      "itemKey": "25YCAX5V",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/25YCAX5V"
+    },
+    {
+      "key": "DKQKYHAN",
+      "version": 9792,
+      "itemType": "journalArticle",
+      "title": "Micro-scale heterogeneity in water temperature",
+      "abstractNote": "Micro-scale heterogeneity in water temperature was examined in 6 upland sites in the Western Cape, South Africa. Hourly water temperature data converted to daily data showed that greatest differences were apparent in daily maximum temperatures between shallow- and deep-water biotopes during the warmest period of the year. Pool depth affected water temperature with deeper pools creating a more stable thermal environment. Groundwater-dependency affected water temperature differences with less groundwater-dependent rivers exhibiting greater differences in daily maximum temperatures. The importance of maintaining instream and riparian habitat, including pools, undercut banks, marginal vegetation, and an intact hyporheos, is discussed, giving examples of organisms utilising such habitats as thermal refugia. Considerations when choosing an appropriate model to simulate water temperatures, including groundwater-dependency, temporal and spatial scale, and study objectives, are discussed.",
+      "date": "2011-10",
+      "libraryCatalog": "journals.co.za (Atypon)",
+      "url": "https://journals.co.za/doi/abs/10.10520/EJC116810",
+      "accessDate": "2024-06-01T13:09:25Z",
+      "extra": "Publisher: Water Research Commission (WRC)",
+      "volume": "37",
+      "pages": "505-512",
+      "publicationTitle": "Water SA",
+      "DOI": "10.10520/EJC116810",
+      "issue": "4",
+      "creators": [
+        {
+          "firstName": "H. F.",
+          "lastName": "Dallas",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Aquatic organisms",
+          "type": 1
+        },
+        {
+          "tag": "Biotic responses",
+          "type": 1
+        },
+        {
+          "tag": "Micro-scale heterogeneity",
+          "type": 1
+        },
+        {
+          "tag": "Modelling",
+          "type": 1
+        },
+        {
+          "tag": "Riverine ecosystems",
+          "type": 1
+        },
+        {
+          "tag": "Rivers",
+          "type": 1
+        },
+        {
+          "tag": "Thermal regimes",
+          "type": 1
+        },
+        {
+          "tag": "Water temperature",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2024-06-01T13:09:25Z",
+      "dateModified": "2024-06-01T13:09:25Z",
+      "uri": "http://zotero.org/users/10816057/items/DKQKYHAN",
+      "itemID": 2108,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://journals.co.za/doi/pdf/10.10520/EJC116810",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-06-01T13:09:28Z",
+          "dateModified": "2024-06-01T13:09:28Z",
+          "uri": "http://zotero.org/users/10816057/items/GY7DP3QJ",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\GY7DP3QJ\\Dallas - 2011 - Micro-scale heterogeneity in water temperature.pdf",
+          "select": "zotero://select/library/items/GY7DP3QJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "dallasMicroscaleHeterogeneityWater2011",
+      "itemKey": "DKQKYHAN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/DKQKYHAN"
     },
     {
       "key": "WKJ7RHRQ",
@@ -978,6 +1607,157 @@
       "itemKey": "J9CVA9PQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/J9CVA9PQ"
+    },
+    {
+      "key": "SY6IIS68",
+      "version": 9785,
+      "itemType": "book",
+      "title": "The genus Notonecta of the World (Notonectidae-Hemiptera)",
+      "date": "1934",
+      "url": "http://biostor.org/reference/99507",
+      "volume": "21",
+      "publisher": "University of Kansas Science Bulletin",
+      "numPages": "192",
+      "creators": [
+        {
+          "firstName": "H.B.",
+          "lastName": "Hungerford",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "notion"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2022-12-21T21:36:25Z",
+      "dateModified": "2023-01-26T16:36:18Z",
+      "uri": "http://zotero.org/users/10816057/items/SY6IIS68",
+      "itemID": 2,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Hungerford. 1934. Notonecta of the world.pdf",
+          "path": "C:\\Users\\19082\\OneDrive - University of Toronto\\Backswimmers\\Hungerford. 1934. Notonecta of the world.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2022-12-21T21:39:47Z",
+          "dateModified": "2022-12-21T21:39:47Z",
+          "uri": "http://zotero.org/users/10816057/items/TY79KF3H",
+          "select": "zotero://select/library/items/TY79KF3H"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Notion",
+          "url": "notion://www.notion.so/Hungerford-1934-4a25fc4f5a9b4274ba589868edea8b9c",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-01-26T16:36:18Z",
+          "dateModified": "2023-02-03T14:28:47Z",
+          "uri": "http://zotero.org/users/10816057/items/9Z99R8XA",
+          "select": "zotero://select/library/items/9Z99R8XA"
+        }
+      ],
+      "notes": [],
+      "citationKey": "hungerfordGenusNotonectaWorld1934",
+      "itemKey": "SY6IIS68",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SY6IIS68"
+    },
+    {
+      "key": "MUNRKJAK",
+      "version": 9790,
+      "itemType": "journalArticle",
+      "title": "Top-down control by an aquatic invertebrate predator increases with temperature but does not depend on individual behavioral type",
+      "abstractNote": "Variation in behavioral traits among individuals within a population can have implications for food webs and ecosystems. Temperature change also alters food web structure and function, but potential interactions between warming and intraspecific behavioral variation are largely unexplored. We aimed to test how increased temperature, individual activity level of a predatory backswimmer (Anisops assimilis), and their interaction influenced the strength of top-down control of zooplankton and phytoplankton. We used stable isotopes to support our assumption that the study population of A. assimilis is zooplanktivorous, and behavioral trials to confirm that activity level is a repeatable trait. We established freshwater microcosms to test for effects of warming, backswimmer presence, and backswimmer behavioral type on zooplankton density, zooplankton composition, and phytoplankton chlorophyll a. Top-down control was present and was generally stronger at increased temperature. There was no indication that predator behavioral type influenced the strength of top-down control either on its own or interactively with temperature. Predator behavioral type may not be associated with ecologically important function in this species at the temporal and spatial scales addressed in this study, but the links between behavior, temperature, and food web processes are worthy of broader exploration.",
+      "date": "2018",
+      "language": "en",
+      "libraryCatalog": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.4367",
+      "accessDate": "2024-03-14T13:39:15Z",
+      "rights": "© 2018 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd.",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.4367",
+      "volume": "8",
+      "pages": "8256-8265",
+      "publicationTitle": "Ecology and Evolution",
+      "DOI": "10.1002/ece3.4367",
+      "issue": "16",
+      "ISSN": "2045-7758",
+      "creators": [
+        {
+          "firstName": "Travis",
+          "lastName": "Ingram",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zuri D.",
+          "lastName": "Burns",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "activity",
+          "type": 1
+        },
+        {
+          "tag": "animal personality",
+          "type": 1
+        },
+        {
+          "tag": "backswimmer",
+          "type": 1
+        },
+        {
+          "tag": "Notonectidae",
+          "type": 1
+        },
+        {
+          "tag": "reaction norm",
+          "type": 1
+        },
+        {
+          "tag": "trophic cascade",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2024-03-14T13:39:15Z",
+      "dateModified": "2024-03-14T13:39:15Z",
+      "uri": "http://zotero.org/users/10816057/items/MUNRKJAK",
+      "itemID": 1941,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4367",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-03-14T13:39:16Z",
+          "dateModified": "2024-03-14T13:39:16Z",
+          "uri": "http://zotero.org/users/10816057/items/3YC4KX4R",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\3YC4KX4R\\Ingram and Burns - 2018 - Top-down control by an aquatic invertebrate predat.pdf",
+          "select": "zotero://select/library/items/3YC4KX4R"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4367",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2024-03-14T13:39:26Z",
+          "dateModified": "2024-03-14T13:39:26Z",
+          "uri": "http://zotero.org/users/10816057/items/Z6WIZ38D",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\Z6WIZ38D\\ece3.html",
+          "select": "zotero://select/library/items/Z6WIZ38D"
+        }
+      ],
+      "notes": [],
+      "citationKey": "ingramTopdownControlAquatic2018",
+      "itemKey": "MUNRKJAK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/MUNRKJAK"
     },
     {
       "key": "FKJJHKEA",
@@ -1758,6 +2538,289 @@
       "select": "zotero://select/library/items/TV3W5KQY"
     },
     {
+      "key": "LST7R5BK",
+      "version": 9784,
+      "itemType": "journalArticle",
+      "title": "Shrinking body size as an ecological response to climate change",
+      "abstractNote": "It is well recognized that species are shifting their distributions and the timing of key life events in response to climate change. What is less appreciated is that many species are also experiencing reductions in body size, with implications for food availability and the balance of ecosystems. This Perspective looks at the evidence for shrinking body size across endothermic and ectothermic organisms and proposes future research directions.",
+      "date": "2011-11",
+      "language": "en",
+      "libraryCatalog": "www.nature.com",
+      "url": "https://www.nature.com/articles/nclimate1259",
+      "accessDate": "2023-10-16T13:14:03Z",
+      "rights": "2011 Springer Nature Limited",
+      "extra": "Number: 8\nPublisher: Nature Publishing Group",
+      "volume": "1",
+      "pages": "401-406",
+      "publicationTitle": "Nature Climate Change",
+      "DOI": "10.1038/nclimate1259",
+      "issue": "8",
+      "journalAbbreviation": "Nature Clim Change",
+      "ISSN": "1758-6798",
+      "creators": [
+        {
+          "firstName": "Jennifer A.",
+          "lastName": "Sheridan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David",
+          "lastName": "Bickford",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Climate-change ecology",
+          "type": 1
+        },
+        {
+          "tag": "Cryospheric science",
+          "type": 1
+        },
+        {
+          "tag": "Ecosystem ecology",
+          "type": 1
+        },
+        {
+          "tag": "notion"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2023-10-16T13:14:03Z",
+      "dateModified": "2023-10-26T14:52:05Z",
+      "uri": "http://zotero.org/users/10816057/items/LST7R5BK",
+      "itemID": 1076,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://www.nature.com/articles/nclimate1259.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-10-16T13:14:05Z",
+          "dateModified": "2023-10-16T13:14:05Z",
+          "uri": "http://zotero.org/users/10816057/items/8ZJNIR4S",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\8ZJNIR4S\\Sheridan and Bickford - 2011 - Shrinking body size as an ecological response to c.pdf",
+          "select": "zotero://select/library/items/8ZJNIR4S"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Notion",
+          "url": "notion://www.notion.so/Sheridan-Bickford-2011-d452bc7aff294df5b091e6985ae02982",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-10-26T14:52:05Z",
+          "dateModified": "2023-10-26T14:52:05Z",
+          "uri": "http://zotero.org/users/10816057/items/ZLL7DSQN",
+          "select": "zotero://select/library/items/ZLL7DSQN"
+        }
+      ],
+      "notes": [],
+      "citationKey": "sheridanShrinkingBodySize2011",
+      "itemKey": "LST7R5BK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LST7R5BK"
+    },
+    {
+      "key": "DM4VTHJ2",
+      "version": 9789,
+      "itemType": "journalArticle",
+      "title": "Growth versus molting time of caterpillars as a function of temperature, nutrient concentration and the phenolic rutin",
+      "abstractNote": "A factorial experiment tested the effects of varying nutrient concentration (normal versus diluted), presence or absence of the phenolic allelochemical rutin and daytime temperature (20, 25 and 30° C) on growth, molting and food utilization efficiencies of tobacco hornworms (Manduca sexta). Two of the utilization efficiencies (approximate digestibility and efficiency of conversion of ingested food) were unaffected by temperature; the third one, efficiency of conversion of digested food, was affected by temperature but there was no consistent effect. Lower temperatures significantly increased the proportion of the stadium spent molting, with larvae at a daytime temperature of 20° C spending 9% more of the stadium in molting than larvae at 30° C. Growth time was not influenced by nutrient concentration. When temperature was low and rutin absent, molt time and the proportion of the stadium spent molting were affected by nutrient concentration. Addition of the phenolic rutin did not have an appreciable effect on growth time or digestive processes. However, it increased molting time by 7 to 14% and thus increased the duration of the stadium and reduced relative growth rate. These results indicate that the effect of food quality on growth rate is a function of the thermal conditions of insect herbivores. At cooler temperatures, a disproportionate increase in time spent molting, rather than altered food utilization efficiencies, contributed to lower growth rates. The consequences for larval growth of fluctuating temperatures due to diurnal cycles and the presence of predators forcing larvae into thermally suboptimal microhabitats are discussed.",
+      "date": "1990-01-01",
+      "language": "en",
+      "libraryCatalog": "Springer Link",
+      "url": "https://doi.org/10.1007/BF00318541",
+      "accessDate": "2025-03-04T16:54:30Z",
+      "volume": "82",
+      "pages": "107-113",
+      "publicationTitle": "Oecologia",
+      "DOI": "10.1007/BF00318541",
+      "issue": "1",
+      "journalAbbreviation": "Oecologia",
+      "ISSN": "1432-1939",
+      "creators": [
+        {
+          "firstName": "Nancy E.",
+          "lastName": "Stamp",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Food quality",
+          "type": 1
+        },
+        {
+          "tag": "Growth phase",
+          "type": 1
+        },
+        {
+          "tag": "Molt phase",
+          "type": 1
+        },
+        {
+          "tag": "Predation",
+          "type": 1
+        },
+        {
+          "tag": "Thermal conditions",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2025-03-04T16:54:30Z",
+      "dateModified": "2025-03-04T16:54:30Z",
+      "uri": "http://zotero.org/users/10816057/items/DM4VTHJ2",
+      "itemID": 2969,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://link.springer.com/content/pdf/10.1007%2FBF00318541.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-03-04T16:54:33Z",
+          "dateModified": "2025-03-04T16:54:33Z",
+          "uri": "http://zotero.org/users/10816057/items/C4LMUQJM",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\C4LMUQJM\\Stamp - 1990 - Growth versus molting time of caterpillars as a fu.pdf",
+          "select": "zotero://select/library/items/C4LMUQJM"
+        }
+      ],
+      "notes": [],
+      "citationKey": "stampGrowthMoltingTime1990",
+      "itemKey": "DM4VTHJ2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/DM4VTHJ2"
+    },
+    {
+      "key": "J3W43XVB",
+      "version": 9783,
+      "itemType": "journalArticle",
+      "title": "Dispersal propensity, but not flight performance, explains variation in dispersal ability",
+      "abstractNote": "Enhanced dispersal ability may lead to accelerated range expansion and increased rates of population establishment, thereby affecting population genetic structure and evolutionary potential. Morphological, behavioural and physiological traits that characterize dispersive individuals from residents are poorly understood for many invertebrate systems, especially in non-polymorphic pterygote species. Here we examined phenotypic differences between dispersal-prone and philopatric individuals from repeated mark-release-recapture (MRR) experiments using an invasive agricultural pest, Ceratitis capitata. Comprehensive morphometric assessment and subsequent minimal adequate modelling using an information theoretic approach identified thorax mass : body mass ratio as a key predictor of disperser flies under semi-natural conditions. Performance differences in flight ability were then examined under controlled laboratory conditions to assess whether greater thorax mass : body mass ratio was associated with enhanced flight ability. The larger thorax : body mass ratio was associated with measurable differences in mean flight duration, most predominantly in males, and also by their willingness to disperse, scored as the number and duration of voluntary flights. No other measures of whole-animal flight performance (e.g. mean and peak vertical force, total or maximum flight duration) differed. Variation in voluntary behaviour may result in significant alterations of movement behaviour and realized dispersal in nature. This phenomenon may help explain intraspecific variation in the dispersal ability of insects.",
+      "date": "2016-08-17",
+      "libraryCatalog": "royalsocietypublishing.org (Atypon)",
+      "url": "https://royalsocietypublishing.org/doi/full/10.1098/rspb.2016.0905",
+      "accessDate": "2025-03-11T15:30:07Z",
+      "extra": "Publisher: Royal Society",
+      "volume": "283",
+      "pages": "20160905",
+      "publicationTitle": "Proceedings of the Royal Society B: Biological Sciences",
+      "DOI": "10.1098/rspb.2016.0905",
+      "issue": "1836",
+      "creators": [
+        {
+          "firstName": "Vernon M.",
+          "lastName": "Steyn",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Katherine A.",
+          "lastName": "Mitchell",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John S.",
+          "lastName": "Terblanche",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "behavioural syndromes",
+          "type": 1
+        },
+        {
+          "tag": "invasion",
+          "type": 1
+        },
+        {
+          "tag": "plasticity",
+          "type": 1
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2025-03-11T15:30:07Z",
+      "dateModified": "2025-03-11T15:30:07Z",
+      "uri": "http://zotero.org/users/10816057/items/J3W43XVB",
+      "itemID": 2961,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "url": "https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2016.0905",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2025-03-11T15:30:09Z",
+          "dateModified": "2025-03-11T15:30:09Z",
+          "uri": "http://zotero.org/users/10816057/items/A5V6JTR7",
+          "path": "C:\\Users\\nikki\\Zotero\\storage\\A5V6JTR7\\Steyn et al. - 2016 - Dispersal propensity, but not flight performance, .pdf",
+          "select": "zotero://select/library/items/A5V6JTR7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "steynDispersalPropensityNot2016",
+      "itemKey": "J3W43XVB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/J3W43XVB"
+    },
+    {
+      "key": "H57WVXST",
+      "version": 9788,
+      "itemType": "journalArticle",
+      "title": "Starvation in Daphnia: Energy reserves and reproductive allocation1",
+      "abstractNote": "The relationship between energy reserves (biomass and triacylglycerol) and starvation time is investigated for two planktonic Cladocera, Daphnia. galeata mendotae and Daphnia magna. Triacylglycerol s...",
+      "date": "1983/07/01",
+      "language": "en",
+      "shortTitle": "Starvation in Daphnia",
+      "libraryCatalog": "aslopubs.onlinelibrary.wiley.com",
+      "url": "https://aslopubs.onlinelibrary.wiley.com/doi/10.4319/lo.1983.28.4.0667",
+      "accessDate": "2025-03-07T11:36:02Z",
+      "extra": "Publisher: John Wiley & Sons, Ltd",
+      "volume": "28",
+      "pages": "667-676",
+      "publicationTitle": "Limnology and Oceanography",
+      "DOI": "10.4319/lo.1983.28.4.0667",
+      "issue": "4",
+      "ISSN": "1939-5590",
+      "creators": [
+        {
+          "firstName": "Alan J.",
+          "lastName": "Tessier",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Linda L.",
+          "lastName": "Henry",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Clyde E.",
+          "lastName": "Goulden",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mark W.",
+          "lastName": "Durand",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2025-03-07T11:36:02Z",
+      "dateModified": "2025-03-07T11:36:02Z",
+      "uri": "http://zotero.org/users/10816057/items/H57WVXST",
+      "itemID": 2964,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "tessierStarvationDaphniaEnergy1983",
+      "itemKey": "H57WVXST",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/H57WVXST"
+    },
+    {
       "key": "YSEGQR6P",
       "version": 9497,
       "itemType": "journalArticle",
@@ -1789,11 +2852,11 @@
       ],
       "tags": [
         {
-          "tag": "Challenges",
+          "tag": "Dispersal",
           "type": 1
         },
         {
-          "tag": "Dispersal",
+          "tag": "Challenges",
           "type": 1
         },
         {
