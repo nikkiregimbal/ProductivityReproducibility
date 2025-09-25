@@ -1,7 +1,7 @@
 ---
 title: "Assessing the effects of temperature on backswimmer development and dispersal"
 author: "Nicole Regimbal"
-date: "September 23, 2025"
+date: "September 25, 2025"
 output:
   pdf_document: default
   html_document:
@@ -16,7 +16,6 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message= FALSE)
 ```{r loadlibs}
 library(lme4)
 library(ggplot2)
-
 ```
 
 # Introduction
@@ -62,7 +61,7 @@ All statistical analyses were conducted using R Statistical Software version 4.3
 We found that temperature has a significant negative effect on backswimmer survival (*p* < 0.001). Survival was generally low across all treatments (Figure 1). The highest survival was in the 22°C treatment, with a fitted survival probability of 0.28. No backswimmers in the 30°C treatment survived to adulthood. In the 22°C treatment 14 individuals survived to adulthood, in the 24°C treatment 20 individuals survived to adulthood, in the 26°C treatmnet 10 individuals survived to adulthood, and in the 28°C treatment 4 individuals survived to adulthood. Temperature significantly increased molt rate (*p* < 0.001) such that mean molt rate increased from 0.079 at 22°C to 0.17 at 30°C. When individuals molted faster, the odds of survival significantly decreased (*p* < 0.001, Figure 2). 
 
 
-![Survival probability +/-95% CI of juvenile backswimmers as a function of temperature. Temperature has a negative effect on survival.](.03_figs/survival_plot.png){ width=50% }
+![Survival probability +/-95% CI of juvenile backswimmers as a function of temperature. Temperature has a negative effect on survival.](../03_figs/survival_plot.png){ width=50% }
 
 ![Survival probability +/-95% CI of juvenile backswimmers as a function of molt rate. Individuals that molt faster are less likely to survive.](../03_figs/moltrate_survival_plot.png){ width=50% }
 

@@ -1,9 +1,7 @@
----
-title: "Assessing the effects of temperature on backswimmer development and dispersal""
-author: "Nicole Regimbal"
-date: "2025-09-13"
-output: pdf_document
----
+
+# title: Assessing the effects of temperature on backswimmer development and dispersal
+author: Nicole Regimbal
+
 
 ## Course work for CIEE Productivity and Reproducibility 2025
 
