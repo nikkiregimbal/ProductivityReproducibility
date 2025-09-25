@@ -1,0 +1,132 @@
+---
+title           : "My preregistration for the Effects of temperature on backswimmer development and dispersal"
+shorttitle      : "My preregistration for temperature on backswimmer analysis"
+date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
+
+author: 
+  - name        : Nicole Lorraine Regimbal
+    affiliation : 1
+  - name        : Celina Baines
+    affiliation : 1
+
+affiliation:
+  - id          : 1
+    institution : University of Toronto
+
+output: prereg::prereg_pdf
+bibliography: references.bib
+---
+
+# Study Information
+
+## Title
+Assessing the effects of temperature on backswimmer (*Notonecta undulata*) development and dispersal
+
+## Project Description
+
+Rising temperatures associated with climate change can impact ability and motivation to disperse. This dispersal response is important in dictating whether a species can move to track their thermal niches (i.e. range shifts). Temperature can affect the physical ability of a species to disperse, often temperature increases metabolic rate which reduces body condition [@bonteDispersalCentralIndependent2017, @dillonGlobalMetabolicImpacts2010]. However, unsuitable temperatures may be a motivator for species to disperse to more suitable environments [@bestionDispersalResponseClimate2015a]. Dispersal ability and propensity can conflict with each other, such that when dispersal ability is impeded the independent effects of temperature on dispersal propensity cannot be expressed. Therefore, isolating the impacts of temperature on dispersal ability is important to understand changes in dispersal trends with temperature, elucidating the extent to which dispersal is possible and motivated. This project experimentally assesses the effects of temperature on the survival, development, body condition, and dispersal ability of the backswimmer species *Notonecta undulata*.
+
+
+## Hypotheses
+
+We hypothesized that 1) high temperatures will increase backswimmer mortality, 2) high temperatures will lower body condition, and 3) the effects of temperature on body condition will determine dispersal rates.
+
+# Design Plan
+
+## Study type
+
+**Experiment**. A researcher randomly assigns treatments to study subjects, this includes field or lab experiments. This is also known as an intervention experiment and includes randomized controlled trials.
+
+## Blinding
+
+No blinding is involved in this study.
+
+## Study design
+
+We have a between subjects design where water temperature is manipulated in 20-gallon mesocosms with 5 levels of 22°C, 24°C, 26°C, 28°C, and 30°C. We predicted that higher temperatures will have higher mortality. Thus, we varied the number of treatment replicates in accordance with this prediction to aim for a sufficient sample size of individuals that reach adulthood. This resulted in 5 replicates of the 22°C treatment, 6 replicates of the 24°C treatment, 7 replicates of the 26°C treatment, 8 replicates of the 28°C treatment, and 9 replicates of the 30°C treatment (35 total mesocosms). Juvenile backswimmers (2nd instars out of 5 total instars) were collected from the University of Toronto's field station, the Koffler Scientific Reserve in King City, ON. Backswimmers were separated into individual cups in the temperature treatments to eliminate the effects of competition and cannibalism risk (backswimmers are common opportunistic cannibals). We added backswimmers into the experiment in 5 blocks taking place on consecutive days, such that each treatment was represented in each block, due to the high sampling effort required. This experiment used 350 total 2nd instar backswimmers, with 10 backswimmers randomly assigned to each mesocosm. Zooplankton was provided as food in each individual backswimmer container and was replenished *ad libitum*. Every day, we assessed backswimmer survival and growth (via counting the number of molts that occurred). When backswimmers molted into adults, we assessed their body condition calculated as mass (g) divided by thorax width (mm). The dispersal assay took place in two-parts: 1) dispersal propensity and 2) dispersal ability. 
+
+## Randomization
+
+Randomization was used to assign juvenile backswimmers to their temperature treatment and mesocosm. 
+
+# Sampling Plan
+
+Juvenile backswimmers were opportunistically collected from ponds at the University of Toronto's Koffler Scientific Reserve field station. 
+
+## Existing data
+
+No existing data was used in this study. 
+
+
+## Data collection procedures
+
+Backswimmers collected from sampling the ponds will only be included in the experiment if they are 2nd instar. We used approximate size matching to determine the instar of a backswimmer.
+
+We determine if a backswimmer molted by the presence of a shedded exoskeleton in it's cup. After data on the molt of an individual is recorded, the exoskeleton was removed from the cup to ensure no molts are recorded multiple times.  
+
+Thorax width (mm) and mass (g) measurements were taken for surviving adults to determine body condition. Thorax width was measured along the backswimmers pronotum using a caliper. To measure mass, the backswimmer was first left to dry in an enclosed specimen cup. A separate cup was placed on the analytical balance, zeroed, and the backswimmer was added into the cup. This weight was recorded. 
+
+## Sample size
+
+Our sample size was 350 2nd instar backswimmers, we aimed to collect ~400 juveniles to account for mortality prior to the start of the experiment. These 350 individuals were split up between 35 mesocosms. 
+
+
+## Sample size rationale
+
+Sampling 350 2nd instar backswimmers was an ambitious goal for this project. This requires backswimmers of the same instar to be sampled in a short period of time. Thus, this number was determined by the sampling effort required. 
+
+To assess dispersal, this project requires a sufficient number of adults in all temperature treatments to survive. To account for higher mortality at high temperatures, we increased the number of replicates as temperature treatment increased. This resulted in 50 individuals in the 22°C treatment, 60 in the 24°C treatment, 70 in the 26°C treatment, 80 in the 28°C treatment, and 90 in the 30°C treatment (350 total individuals).
+
+
+# Variables
+
+## Manipulated variables
+
+We manipulated temperature at 5 levels: 22°C, 24°C, 26°C, 28°C, and 30°C.
+
+
+## Measured variables
+
+We measure survival and molting of all individuals. When a backswimmer molts, we can see its shedded exoskeleton floating at the top of the water. We recorded every time an individual molted. This data was used to calculate total number of molts and molt rate. For backswimmmers that reached adulthood, we assessed body condition (thorax width / mass). Thorax width (mm) was measured using a caliper, mass (g) was measured with an analytical balance. These measurements were taken twice, once immediately after emerging into adulthood and again immediately before the dispersal assay. Two dispersal metrics were assessed. Dispersal count reflects the dispersal propensity of the backswimmer. We recorded the number of times in a 15-minute window that the backswimmer attempted to disperse from an mesocosm covered in clear plastic wrap. The Dispersal (absolute) indicates whether an individual stayed or dispersed from uncovered mesocosms over a 3 hour period. A dispersal value of 1 means the individual left and a value of 0 means the individual stayed. 
+
+
+# Analysis Plan
+
+
+## Statistical models
+
+We will assess how temperature influences survival using a generalized linear mixed effects model (GLMM) with the binomial error structure. This model treated survival as a binomial response variable, with the fixed effect of temperature, and the random effect of mesocosm nested in block.
+
+We will assess how temperature affects the speed at which an individual molts by calculating the molt rate as the number of days an individual lived before either emerging into an adult or dying. We will conduct a linear mixed effects model with temperature as a fixed effect, mesocosm nested in block as a random effect, and molt rate as the response.
+
+Additionally, we conducted a linear mixed effects model to assess body condition, using body condition as the response variable, temperature as the fixed effect, and mesocosm nested in block as the random effect. We ran models independently for body condition at both time points (after emergence into adulthood and before dispersal assay).
+
+We will assess dispersal count and absolute dispersal in separate GLMMS with a poisson distribution and a binomial distribution, respectively. In both models, temperature and body condition will be fixed effects, 
+temperature influences survival using a generalized linear mixed effects and the random effect of mesocosm nested in block.
+
+## Transformations
+
+Molt rate is calculated as the number of molts divided by the number of days an individual survived (or reached adulthood). This data was very right-skewed. We log transformed molt rate to fit a normal distribution. No other data had any transformations. 
+
+## Inference criteria
+
+We will use the standard p-value threshold of 0.05 to determine if the fixed effects of the GLMMs are significant. To determine the overall model significance, we will use the drop1 function in R with a chi-squared test. To determine the effect sizes of the fixed effects, we will use the summary function in R. 
+
+
+## Data exclusion
+
+Due to the small sample size of individuals that will successfully survive to adulthood, no data will be excluded from our analyses. 
+
+
+## Missing data
+
+If an individual does not survive until adulthood, no body condition data is collected for that individual. If an adult does not survive until the dispersal assay, there are no secondary body condition measurements or dispersal data. All surviving individuals are considered in these analyses.
+
+
+# References
+## 
+\vspace{-2pc}
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{-1in}
+\setlength{\parskip}{8pt}
+\noindent
