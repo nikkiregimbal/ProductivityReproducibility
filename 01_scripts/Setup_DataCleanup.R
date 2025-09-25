@@ -10,10 +10,9 @@ library(dplyr)
 tinytex::install_tinytex()
 tiny::tlmgr_update()
 
-#Since data is not being downloaded from R package, it is already stored locally and put in the raw data folder
 
 #Reading in an previewing data
-df <- read.csv("./00_rawdata/backswimmer_development_dispersal.csv", header =TRUE) #there's column names 
+df <- read.csv("./00_rawdata/backswimmer_development_dispersal.csv", header =TRUE) 
 head(df)
 df$Treatment <- as.factor(df$Treatment) #change temperature treatment from numeric to factor
 summary(df)
