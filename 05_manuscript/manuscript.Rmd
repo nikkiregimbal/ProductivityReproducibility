@@ -7,6 +7,7 @@ output:
   html_document:
     df_print: paged
 bibliography: references.bib
+csl: ecology.csl
 ---
 
 ```{r setup, include=FALSE}
